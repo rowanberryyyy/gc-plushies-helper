@@ -1,3298 +1,3670 @@
 [
-    [
-        "Ace Zafara Plushie",
-        101
-    ],
-    [
-        "Agate Dervish Plushie",
-        98
-    ],
-    [
-        "Alien Aisha Plushie",
-        89
-    ],
-    [
-        "Alien Blumaroo Plushie",
-        89
-    ],
-    [
-        "Alien Lutari Plushie",
-        89
-    ],
-    [
-        "Angel Chia Plushie",
-        96
-    ],
-    [
-        "Apis Plushie",
-        101
-    ],
-    [
-        "Archmagus of Roo Plushie",
-        99
-    ],
-    [
-        "Baby Chomby Plushie",
-        88
-    ],
-    [
-        "Baby Draik Plushie",
-        86
-    ],
-    [
-        "Baby Eyrie Plushie",
-        94
-    ],
-    [
-        "Baby Grundo Plushie",
-        86
-    ],
-    [
-        "Baby Kougra Plushie",
-        84
-    ],
-    [
-        "Baby Peophin Plushie",
-        95
-    ],
-    [
-        "Baby Quiggle Plushie",
-        89
-    ],
-    [
-        "Baby Scorchio Plushie",
-        80
-    ],
-    [
-        "Baby Skeith Plushie",
-        84
-    ],
-    [
-        "Baby Tonu Plushie",
-        84
-    ],
-    [
-        "Black Bearog Plushie",
-        98
-    ],
-    [
-        "Black Doglefox Plushie",
-        94
-    ],
-    [
-        "Black Evil Fuzzle",
-        94
-    ],
-    [
-        "Black Fuzzle",
-        80
-    ],
-    [
-        "Black Wadjet Plushie",
-        99
-    ],
-    [
-        "Blizzard Kougra Plushie",
-        99
-    ],
-    [
-        "Blue Acara Plushie",
-        55
-    ],
-    [
-        "Blue Aisha Doll",
-        97
-    ],
-    [
-        "Blue Blumaroo Plushie",
-        101
-    ],
-    [
-        "Blue Brain Tree Plushie",
-        101
-    ],
-    [
-        "Blue Bruce Plushie",
-        65
-    ],
-    [
-        "Blue Chia Plushie",
-        38
-    ],
-    [
-        "Blue Chomby Plushie",
-        72
-    ],
-    [
-        "Blue Cybunny Plushie",
-        50
-    ],
-    [
-        "Blue Draik Plushie",
-        97
-    ],
-    [
-        "Blue Evil Fuzzle",
-        60
-    ],
-    [
-        "Blue Eyrie Plushie",
-        84
-    ],
-    [
-        "Blue Flotsam Plushie",
-        44
-    ],
-    [
-        "Blue Gelert Plushie",
-        58
-    ],
-    [
-        "Blue Grarrl Plushie",
-        83
-    ],
-    [
-        "Blue Grundo Plushie",
-        83
-    ],
-    [
-        "Blue Hissi Plushie",
-        46
-    ],
-    [
-        "Blue Igloo Chia Plushie",
-        89
-    ],
-    [
-        "Blue Jetsam Plushie",
-        101
-    ],
-    [
-        "Blue JubJub Plushie",
-        66
-    ],
-    [
-        "Blue Kacheek Plushie",
-        46
-    ],
-    [
-        "Blue Kau Doll",
-        97
-    ],
-    [
-        "Blue Koi Plushie",
-        65
-    ],
-    [
-        "Blue Korbat Plushie",
-        74
-    ],
-    [
-        "Blue Kougra Plushie",
-        65
-    ],
-    [
-        "Blue Krawk Plushie",
-        82
-    ],
-    [
-        "Blue Kyrii Plushie",
-        55
-    ],
-    [
-        "Blue Lenny Plushie",
-        68
-    ],
-    [
-        "Blue Lupe Chia Plushie",
-        84
-    ],
-    [
-        "Blue Lupe Plushie",
-        60
-    ],
-    [
-        "Blue Lutari Plushie",
-        57
-    ],
-    [
-        "Blue Meerca Chase Plushie",
-        110
-    ],
-    [
-        "Blue Meerca Plushie",
-        101
-    ],
-    [
-        "Blue Moehog Plushie",
-        101
-    ],
-    [
-        "Blue Mynci Plushie",
-        65
-    ],
-    [
-        "Blue Nimmo Plushie",
-        48
-    ],
-    [
-        "Blue Peophin Plushie",
-        88
-    ],
-    [
-        "Blue Peophin Squishy Plushie",
-        96
-    ],
-    [
-        "Blue Pteri Plushie",
-        64
-    ],
-    [
-        "Blue Quiggle Plushie",
-        101
-    ],
-    [
-        "Blue Ruki Plushie",
-        88
-    ],
-    [
-        "Blue Scorchio Plushie",
-        92
-    ],
-    [
-        "Blue Shoyru Plushie",
-        75
-    ],
-    [
-        "Blue Skeith Plushie",
-        86
-    ],
-    [
-        "Blue Techo Plushie",
-        101
-    ],
-    [
-        "Blue Tonu Plushie",
-        80
-    ],
-    [
-        "Blue Tuskaninny Plushie",
-        75
-    ],
-    [
-        "Blue Uni Plushie",
-        65
-    ],
-    [
-        "Blue Usul Plushie",
-        70
-    ],
-    [
-        "Blue Wocky Plushie",
-        72
-    ],
-    [
-        "Blue Yurble Plushie",
-        82
-    ],
-    [
-        "Blue Zafara Plushie",
-        74
-    ],
-    [
-        "Boraxis Plushie",
-        99
-    ],
-    [
-        "Botanical Chia Plushie",
-        95
-    ],
-    [
-        "Botanical Grundo Plushie",
-        89
-    ],
-    [
-        "Brightvale Guard Plushie",
-        98
-    ],
-    [
-        "Broken Angel Chia Plushie",
-        101
-    ],
-    [
-        "Broken Blue Chia Plushie",
-        101
-    ],
-    [
-        "Broken Green Chia Plushie",
-        101
-    ],
-    [
-        "Broken Red Chia Plushie",
-        101
-    ],
-    [
-        "Broken Yellow Chia Plushie",
-        101
-    ],
-    [
-        "Brown Draik Plushie",
-        93
-    ],
-    [
-        "Brown Jubjub Plushie",
-        70
-    ],
-    [
-        "Brown Uni Plushie",
-        90
-    ],
-    [
-        "Brown Wadjet Plushie",
-        99
-    ],
-    [
-        "Brucey B Plushie",
-        101
-    ],
-    [
-        "Burgundy Grundo Plushie",
-        70
-    ],
-    [
-        "Cave Lupe Neoquest Plushie",
-        94
-    ],
-    [
-        "Caylis Plushie",
-        101
-    ],
-    [
-        "Chaos Giant Plushie",
-        99
-    ],
-    [
-        "Checkered Kiko Plushie",
-        78
-    ],
-    [
-        "Chia Bomber Attack Plushie",
-        89
-    ],
-    [
-        "Chia Bomber Plushie",
-        90
-    ],
-    [
-        "Chocolate Aisha Plushie",
-        80
-    ],
-    [
-        "Chocolate Wocky Plushie",
-        80
-    ],
-    [
-        "Chocolate Yurble Plushie",
-        80
-    ],
-    [
-        "Christmas Acara Plushie",
-        99
-    ],
-    [
-        "Christmas Bruce Plushie",
-        97
-    ],
-    [
-        "Christmas Bruce Plushie",
-        99
-    ],
-    [
-        "Christmas Eyrie Plushie",
-        99
-    ],
-    [
-        "Christmas Kau Plushie",
-        99
-    ],
-    [
-        "Christmas Korbat Plushie",
-        99
-    ],
-    [
-        "Christmas Uni Plushie",
-        89
-    ],
-    [
-        "Christmas Zafara Plushie",
-        99
-    ],
-    [
-        "Chrysolite Dervish Plushie",
-        99
-    ],
-    [
-        "Cloud Acara Plushie",
-        87
-    ],
-    [
-        "Cloud Gelert Plushie",
-        90
-    ],
-    [
-        "Cloud Ixi Plushie",
-        90
-    ],
-    [
-        "Cloud Kiko Plushie",
-        80
-    ],
-    [
-        "Cloud Lenny Plushie",
-        99
-    ],
-    [
-        "Cloud Scorchio Plushie",
-        81
-    ],
-    [
-        "Commander Gormos Plushie",
-        101
-    ],
-    [
-        "Count von Roo Plushie",
-        101
-    ],
-    [
-        "Curious Blumaroo Gnome Plushie",
-        88
-    ],
-    [
-        "Cylara Plushie",
-        101
-    ],
-    [
-        "Darigan Acara Plushie",
-        99
-    ],
-    [
-        "Darigan Grundo Plushie",
-        92
-    ],
-    [
-        "Darigan Krawk Plushie",
-        96
-    ],
-    [
-        "Darigan Lenny Plushie",
-        95
-    ],
-    [
-        "Darigan Lupe Plushie",
-        97
-    ],
-    [
-        "Darigan Moehog Plushie",
-        90
-    ],
-    [
-        "Darigan Peophin Plushie",
-        92
-    ],
-    [
-        "Darigan Scorchio Plushie",
-        82
-    ],
-    [
-        "Darigan Skeith Plushie",
-        89
-    ],
-    [
-        "Darigan Techo Plushie",
-        94
-    ],
-    [
-        "Darigan Uni Plushie",
-        95
-    ],
-    [
-        "Darigan Yurble Plushie",
-        93
-    ],
-    [
-        "Dastardly Evil Fuzzle",
-        101
-    ],
-    [
-        "Deluxe Blue Uni Plushie",
-        89
-    ],
-    [
-        "Deluxe Starry Cybunny Plushie",
-        92
-    ],
-    [
-        "Deluxe Starry Kyrii Plushie",
-        89
-    ],
-    [
-        "Denethrir Plushie",
-        98
-    ],
-    [
-        "Desert Cobrall Plushie",
-        99
-    ],
-    [
-        "Dire Lupe Neoquest Plushie",
-        92
-    ],
-    [
-        "Dirt Golem Neoquest Plushie",
-        95
-    ],
-    [
-        "Disco Aisha Plushie",
-        110
-    ],
-    [
-        "Disco Bruce Plushie",
-        99
-    ],
-    [
-        "Disco Hissi Plushie",
-        85
-    ],
-    [
-        "Disco Kau Plushie",
-        105
-    ],
-    [
-        "Disco Nimmo Plushie",
-        95
-    ],
-    [
-        "Donny Plushie",
-        101
-    ],
-    [
-        "Donny Plushie",
-        92
-    ],
-    [
-        "Dr Sloth Plushie",
-        101
-    ],
-    [
-        "Drakonid Plushie",
-        98
-    ],
-    [
-        "Dusk Kougra Plushie",
-        99
-    ],
-    [
-        "Edgy Lupe Plushie",
-        94
-    ],
-    [
-        "Electric Kau Plushie",
-        105
-    ],
-    [
-        "Electro Lizard Plushie",
-        99
-    ],
-    [
-        "Eliv Thade Plushie",
-        101
-    ],
-    [
-        "Eo Codestone Plushie",
-        80
-    ],
-    [
-        "Faerie Acara Plushie",
-        101
-    ],
-    [
-        "Faerie Aisha Plushie",
-        86
-    ],
-    [
-        "Faerie Eyrie Plushie",
-        65
-    ],
-    [
-        "Faerie Flotsam Plushie",
-        92
-    ],
-    [
-        "Faerie Grundo Plushie",
-        91
-    ],
-    [
-        "Faerie Ixi Plushie",
-        91
-    ],
-    [
-        "Faerie Kacheek Plushie",
-        98
-    ],
-    [
-        "Faerie Kiko Plushie",
-        90
-    ],
-    [
-        "Faerie Kougra Plushie",
-        95
-    ],
-    [
-        "Faerie Lenny Plushie",
-        80
-    ],
-    [
-        "Faerie Lutari Plushie",
-        90
-    ],
-    [
-        "Faerie Nimmo Plushie",
-        98
-    ],
-    [
-        "Faerie Peophin Plushie",
-        92
-    ],
-    [
-        "Faerie Pteri Plushie",
-        80
-    ],
-    [
-        "Faerie Ruki Plushie",
-        92
-    ],
-    [
-        "Faleinn Plushie",
-        99
-    ],
-    [
-        "Ferocious Snowager Plushie",
-        101
-    ],
-    [
-        "Fire Acara Plushie",
-        76
-    ],
-    [
-        "Fire Blumaroo Plushie",
-        95
-    ],
-    [
-        "Fire Chomby Plushie",
-        85
-    ],
-    [
-        "Fire Eyrie Plushie",
-        99
-    ],
-    [
-        "Fire Kougra Plushie",
-        74
-    ],
-    [
-        "Fire Lizard Plushie",
-        99
-    ],
-    [
-        "Fire Peophin Plushie",
-        90
-    ],
-    [
-        "Fire Techo Plushie",
-        81
-    ],
-    [
-        "Fire Tuskaninny Plushie",
-        92
-    ],
-    [
-        "Frost Lizard Plushie",
-        99
-    ],
-    [
-        "Frozen Lizard Plushie",
-        99
-    ],
-    [
-        "Geb Plushie",
-        101
-    ],
-    [
-        "Ghost Hissi Plushie",
-        88
-    ],
-    [
-        "Giant Moehog Plushie",
-        98
-    ],
-    [
-        "Gloom Kougra Plushie",
-        99
-    ],
-    [
-        "Glowing Acara Plushie",
-        87
-    ],
-    [
-        "Glowing Techo Plushie",
-        82
-    ],
-    [
-        "Gold Chomby Plushie",
-        80
-    ],
-    [
-        "Gold Jetsam Plushie",
-        101
-    ],
-    [
-        "Gold Meerca Plushie",
-        105
-    ],
-    [
-        "Gold Moehog Plushie",
-        105
-    ],
-    [
-        "Golden Shoyru Plushie",
-        83
-    ],
-    [
-        "Gorix Plushie",
-        101
-    ],
-    [
-        "Gothic Ogrin Plushie",
-        80
-    ],
-    [
-        "Gothic Pteri Plushie",
-        81
-    ],
-    [
-        "Gothic Usul Plushie",
-        83
-    ],
-    [
-        "Granite Dervish Plushie",
-        98
-    ],
-    [
-        "Grarrg Action Plushie",
-        93
-    ],
-    [
-        "Grarrg Battle Plushie",
-        91
-    ],
-    [
-        "Green Acara Plushie",
-        65
-    ],
-    [
-        "Green Aisha Doll",
-        92
-    ],
-    [
-        "Green Aisha Plushie",
-        30
-    ],
-    [
-        "Green Alien Aisha Plushie",
-        101
-    ],
-    [
-        "Green Blumaroo Plushie",
-        101
-    ],
-    [
-        "Green Brain Tree Plushie",
-        101
-    ],
-    [
-        "Green Bruce Plushie",
-        67
-    ],
-    [
-        "Green Buzz Plushie",
-        35
-    ],
-    [
-        "Green Chomby Plushie",
-        74
-    ],
-    [
-        "Green Cybunny Plushie",
-        62
-    ],
-    [
-        "Green Elephante Plushie",
-        65
-    ],
-    [
-        "Green Evil Fuzzle",
-        70
-    ],
-    [
-        "Green Eyrie Plushie",
-        80
-    ],
-    [
-        "Green Flotsam Plushie",
-        60
-    ],
-    [
-        "Green Gelert Plushie",
-        59
-    ],
-    [
-        "Green Grarrl Plushie",
-        84
-    ],
-    [
-        "Green Grundo Plushie",
-        81
-    ],
-    [
-        "Green Hissi Plushie",
-        47
-    ],
-    [
-        "Green Jetsam Plushie",
-        101
-    ],
-    [
-        "Green JubJub Plushie",
-        67
-    ],
-    [
-        "Green Kacheek Plushie",
-        40
-    ],
-    [
-        "Green Kau Doll",
-        97
-    ],
-    [
-        "Green Kau Plushie",
-        101
-    ],
-    [
-        "Green Koi Plushie",
-        70
-    ],
-    [
-        "Green Korbat Plushie",
-        70
-    ],
-    [
-        "Green Kougra Plushie",
-        65
-    ],
-    [
-        "Green Krawk Plushie",
-        80
-    ],
-    [
-        "Green Kyrii Plushie",
-        60
-    ],
-    [
-        "Green Lenny Plushie",
-        67
-    ],
-    [
-        "Green Lupe Chia Plushie",
-        85
-    ],
-    [
-        "Green Lutari Plushie",
-        58
-    ],
-    [
-        "Green Meerca Chase Plushie",
-        110
-    ],
-    [
-        "Green Meerca Plushie",
-        101
-    ],
-    [
-        "Green Mynci Plushie",
-        70
-    ],
-    [
-        "Green Nimmo Plushie",
-        71
-    ],
-    [
-        "Green Peophin Plushie",
-        86
-    ],
-    [
-        "Green Peophin Squishy Plushie",
-        96
-    ],
-    [
-        "Green Pteri Plushie",
-        66
-    ],
-    [
-        "Green Quiggle Plushie",
-        101
-    ],
-    [
-        "Green Ruki Plushie",
-        87
-    ],
-    [
-        "Green Scorchio Plushie",
-        93
-    ],
-    [
-        "Green Shoyru Plushie",
-        75
-    ],
-    [
-        "Green Skeith Plushie",
-        80
-    ],
-    [
-        "Green Techo Plushie",
-        101
-    ],
-    [
-        "Green Tonu Plushie",
-        86
-    ],
-    [
-        "Green Tuskaninny Plushie",
-        76
-    ],
-    [
-        "Green Uni Plushie",
-        65
-    ],
-    [
-        "Green Usul Plushie",
-        73
-    ],
-    [
-        "Green Wocky Plushie",
-        73
-    ],
-    [
-        "Green Zafara Plushie",
-        70
-    ],
-    [
-        "Grey Acara Plushie",
-        89
-    ],
-    [
-        "Grey Carmariller Plushie",
-        76
-    ],
-    [
-        "Grey Chomby Plushie",
-        95
-    ],
-    [
-        "Grey Evil Fuzzle",
-        64
-    ],
-    [
-        "Grey Fuzzle",
-        70
-    ],
-    [
-        "Grey Koi Plushie",
-        88
-    ],
-    [
-        "Grey Lupe Neoquest Plushie",
-        96
-    ],
-    [
-        "Grey Usul Plushie",
-        94
-    ],
-    [
-        "Grey Wocky Plushie",
-        97
-    ],
-    [
-        "Grizzly Bearog Plushie",
-        97
-    ],
-    [
-        "Guardian of Fire Magic Plushie",
-        99
-    ],
-    [
-        "Halloween Bori Plushie",
-        85
-    ],
-    [
-        "Halloween Chomby Plushie",
-        90
-    ],
-    [
-        "Halloween Cybunny Plushie",
-        85
-    ],
-    [
-        "Halloween Eyrie Plushie",
-        99
-    ],
-    [
-        "Halloween Gelert Plushie",
-        87
-    ],
-    [
-        "Halloween Hissi Plushie",
-        87
-    ],
-    [
-        "Halloween Jetsam Plushie",
-        92
-    ],
-    [
-        "Halloween JubJub Plushie",
-        99
-    ],
-    [
-        "Halloween Koi Plushie",
-        86
-    ],
-    [
-        "Halloween Kougra Plushie",
-        92
-    ],
-    [
-        "Halloween Meerca Plushie",
-        91
-    ],
-    [
-        "Halloween Mynci Plushie",
-        96
-    ],
-    [
-        "Halloween Nimmo Plushie",
-        96
-    ],
-    [
-        "Halloween Uni Plushie",
-        88
-    ],
-    [
-        "Hand Painted Scarab Plushie",
-        101
-    ],
-    [
-        "Headless Von Roo Plushie",
-        101
-    ],
-    [
-        "Inferno Lizard Plushie",
-        99
-    ],
-    [
-        "Iron Golem Neoquest Plushie",
-        97
-    ],
-    [
-        "Island Jubjub Plushie",
-        77
-    ],
-    [
-        "Jahbal Plushie",
-        99
-    ],
-    [
-        "Jazzmosis Blumaroo Plushie",
-        93
-    ],
-    [
-        "Jazzmosis Kyrii Plushie",
-        88
-    ],
-    [
-        "Jelly Blumaroo Plushie",
-        101
-    ],
-    [
-        "Jelly Chia Plushie",
-        200
-    ],
-    [
-        "Jelly Chomby Plushie",
-        101
-    ],
-    [
-        "Jelly Cybunny Plushie",
-        101
-    ],
-    [
-        "Jelly Kougra Plushie",
-        101
-    ],
-    [
-        "Jelly Poogle Plushie",
-        83
-    ],
-    [
-        "Jelly Usul Plushie",
-        101
-    ],
-    [
-        "Jubusul Plushie",
-        109
-    ],
-    [
-        "King Skarl Erisim Plushie",
-        101
-    ],
-    [
-        "King Skarl Quiguki Plushie",
-        101
-    ],
-    [
-        "King Skarl Snowbunny Plushie",
-        101
-    ],
-    [
-        "Knitted Chia Plushie",
-        96
-    ],
-    [
-        "Knitted Nimmo Plushie",
-        82
-    ],
-    [
-        "Knitted Peophin Plushie",
-        81
-    ],
-    [
-        "Knitted Poogle Plushie",
-        94
-    ],
-    [
-        "Koibat Plushie",
-        108
-    ],
-    [
-        "Lazulite Dervish Plushie",
-        99
-    ],
-    [
-        "Leirobas Plushie",
-        99
-    ],
-    [
-        "Lenny Conundrum Plushie",
-        101
-    ],
-    [
-        "Lightning Giant Plushie",
-        99
-    ],
-    [
-        "Lightning Lizard Plushie",
-        99
-    ],
-    [
-        "Lost Desert Brush Plushie",
-        85
-    ],
-    [
-        "Lost Desert Kougra Plushie",
-        101
-    ],
-    [
-        "Lu Codestone Plushie",
-        80
-    ],
-    [
-        "Luxury Acara Plushie",
-        89
-    ],
-    [
-        "Magical Blue Chomby Plushie",
-        101
-    ],
-    [
-        "Magical Blue Cybunny Plushie",
-        98
-    ],
-    [
-        "Magical Blue Flotsam Plushie",
-        99
-    ],
-    [
-        "Magical Blue Kacheek Plushie",
-        99
-    ],
-    [
-        "Magical Blue Krawk Plushie",
-        99
-    ],
-    [
-        "Magical Blue Nimmo Plushie",
-        99
-    ],
-    [
-        "Magical Blue Pteri Plushie",
-        101
-    ],
-    [
-        "Magical Blue Shoyru Plushie",
-        99
-    ],
-    [
-        "Magical Blue Tonu Plushie",
-        99
-    ],
-    [
-        "Magical Blue Wocky Plushie",
-        180
-    ],
-    [
-        "Magical Christmas Acara Plushie",
-        99
-    ],
-    [
-        "Magical Christmas Bruce Plushie",
-        99
-    ],
-    [
-        "Magical Christmas Eyrie Plushie",
-        99
-    ],
-    [
-        "Magical Christmas Kau Plushie",
-        99
-    ],
-    [
-        "Magical Christmas Korbat Plushie",
-        99
-    ],
-    [
-        "Magical Christmas Uni Plushie",
-        99
-    ],
-    [
-        "Magical Christmas Zafara Plushie",
-        99
-    ],
-    [
-        "Magical Cloud Gelert Plushie",
-        99
-    ],
-    [
-        "Magical Cloud Lenny Plushie",
-        99
-    ],
-    [
-        "Magical Gold Chomby Plushie",
-        101
-    ],
-    [
-        "Magical Gold Meerca Plushie",
-        115
-    ],
-    [
-        "Magical Green Chomby Plushie",
-        101
-    ],
-    [
-        "Magical Green Cybunny Plushie",
-        98
-    ],
-    [
-        "Magical Green Elephante Toy",
-        99
-    ],
-    [
-        "Magical Green Flotsam Plushie",
-        99
-    ],
-    [
-        "Magical Green Gelert Plushie",
-        99
-    ],
-    [
-        "Magical Green Koi Plushie",
-        99
-    ],
-    [
-        "Magical Green Krawk Plushie",
-        99
-    ],
-    [
-        "Magical Green Pteri Plushie",
-        101
-    ],
-    [
-        "Magical Green Tonu Plushie",
-        99
-    ],
-    [
-        "Magical Green Wocky Plushie",
-        99
-    ],
-    [
-        "Magical Orange Draik Plushie",
-        99
-    ],
-    [
-        "Magical Purple Blumaroo Plushie",
-        99
-    ],
-    [
-        "Magical Purple Koi Plushie",
-        99
-    ],
-    [
-        "Magical Purple Zafara Plushie",
-        99
-    ],
-    [
-        "Magical Rainbow Aisha Plushie",
-        99
-    ],
-    [
-        "Magical Rainbow Blumaroo Plushie",
-        99
-    ],
-    [
-        "Magical Rainbow Cybunny Plushie",
-        99
-    ],
-    [
-        "Magical Red Blumaroo Plushie",
-        99
-    ],
-    [
-        "Magical Red Buzz Plushie",
-        98
-    ],
-    [
-        "Magical Red Chomby Plushie",
-        101
-    ],
-    [
-        "Magical Red Cybunny Plushie",
-        98
-    ],
-    [
-        "Magical Red Flotsam Plushie",
-        98
-    ],
-    [
-        "Magical Red Gelert Plushie",
-        99
-    ],
-    [
-        "Magical Red Grarrl Plushie",
-        99
-    ],
-    [
-        "Magical Red Koi Plushie",
-        99
-    ],
-    [
-        "Magical Red Krawk Plushie",
-        99
-    ],
-    [
-        "Magical Red Lenny Plushie",
-        99
-    ],
-    [
-        "Magical Red Nimmo Plushie",
-        99
-    ],
-    [
-        "Magical Red Pteri Plushie",
-        101
-    ],
-    [
-        "Magical Red Skeith Plushie",
-        99
-    ],
-    [
-        "Magical Red Tonu Plushie",
-        99
-    ],
-    [
-        "Magical Red Usul Plushie",
-        99
-    ],
-    [
-        "Magical Red Wocky Plushie",
-        99
-    ],
-    [
-        "Magical Shadow Draik Plushie",
-        99
-    ],
-    [
-        "Magical Silver Kougra Plushie",
-        98
-    ],
-    [
-        "Magical Spotted Blumaroo Plushie",
-        99
-    ],
-    [
-        "Magical Starry Kau Plushie",
-        99
-    ],
-    [
-        "Magical Starry Techo Plushie",
-        111
-    ],
-    [
-        "Magical Yellow Cybunny Plushie",
-        98
-    ],
-    [
-        "Magical Yellow Flotsam Plushie",
-        98
-    ],
-    [
-        "Magical Yellow Koi Plushie",
-        180
-    ],
-    [
-        "Magical Yellow Lenny Plushie",
-        99
-    ],
-    [
-        "Magical Yellow Nimmo Plushie",
-        99
-    ],
-    [
-        "Magical Yellow Poogle Toy",
-        105
-    ],
-    [
-        "Magical Yellow Pteri Plushie",
-        101
-    ],
-    [
-        "Magical Yellow Skeith Plushie",
-        99
-    ],
-    [
-        "Magical Yellow Tonu Plushie",
-        99
-    ],
-    [
-        "Magical Yellow Wocky Plushie",
-        99
-    ],
-    [
-        "Main Codestone Plushie",
-        80
-    ],
-    [
-        "Maraquan Eyrie Plushie",
-        90
-    ],
-    [
-        "Maraquan Techo Plushie",
-        97
-    ],
-    [
-        "Mastermind Plushie",
-        100
-    ],
-    [
-        "Mau Codestone Plushie",
-        80
-    ],
-    [
-        "Maverick Plushie",
-        101
-    ],
-    [
-        "Melatite Dervish Plushie",
-        99
-    ],
-    [
-        "Meowclops Plushie",
-        88
-    ],
-    [
-        "Mist Kougra Plushie",
-        99
-    ],
-    [
-        "Mokti Plushie",
-        99
-    ],
-    [
-        "Monoceraptor Plushie",
-        99
-    ],
-    [
-        "Morris Plushie",
-        101
-    ],
-    [
-        "Mutant Blumaroo Plushie",
-        98
-    ],
-    [
-        "Mutant Buzz Plushie",
-        97
-    ],
-    [
-        "Mutant Chia Plushie",
-        99
-    ],
-    [
-        "Mutant Elephante Plushie",
-        97
-    ],
-    [
-        "Mutant Flotsam Plushie",
-        91
-    ],
-    [
-        "Mutant Grundo Plushie",
-        90
-    ],
-    [
-        "Mutant Hissi Plushie",
-        92
-    ],
-    [
-        "Mutant Kiko Plushie",
-        98
-    ],
-    [
-        "Mutant Korbat Plushie",
-        99
-    ],
-    [
-        "Mutant Kougra Plushie",
-        99
-    ],
-    [
-        "Mutant Krawk Plushie",
-        99
-    ],
-    [
-        "Mutant Lenny Plushie",
-        88
-    ],
-    [
-        "Mutant Moehog Plushie",
-        98
-    ],
-    [
-        "Mutant Pteri Plushie",
-        99
-    ],
-    [
-        "Mutant Ruki Plushie",
-        88
-    ],
-    [
-        "Mutant Shoyru Plushie",
-        99
-    ],
-    [
-        "Mutant Techo Plushie",
-        97
-    ],
-    [
-        "Mutant Usul Plushie",
-        98
-    ],
-    [
-        "Negg Faerie Plushie",
-        87
-    ],
-    [
-        "NeoQuest Hero Plushie",
-        99
-    ],
-    [
-        "NeoQuest Plushie",
-        101
-    ],
-    [
-        "Neon Skeleton Lutari Plushie",
-        83
-    ],
-    [
-        "Neoquest Gatekeeper Plushie",
-        99
-    ],
-    [
-        "Official Brain Tree Plushie",
-        101
-    ],
-    [
-        "Orange Chomby Plushie",
-        84
-    ],
-    [
-        "Orange Draik Plushie",
-        98
-    ],
-    [
-        "Orange Evil Fuzzle",
-        68
-    ],
-    [
-        "Orange Gelert Plushie",
-        97
-    ],
-    [
-        "Orange Krawk Plushie",
-        84
-    ],
-    [
-        "Orange Peophin Squishy Plushie",
-        96
-    ],
-    [
-        "Orange Pteri Plushie",
-        65
-    ],
-    [
-        "Orange Scorchio Plushie",
-        92
-    ],
-    [
-        "Orn Codestone Plushie",
-        80
-    ],
-    [
-        "Pastel Pink Peophin Plushie",
-        87
-    ],
-    [
-        "Pastel Purple Peophin Plushie",
-        87
-    ],
-    [
-        "Pink Aisha Plushie",
-        180
-    ],
-    [
-        "Pink Blumaroo Plushie",
-        96
-    ],
-    [
-        "Pink Brain Tree Plushie",
-        101
-    ],
-    [
-        "Pink Evil Fuzzle",
-        65
-    ],
-    [
-        "Pink Hissi Plushie",
-        84
-    ],
-    [
-        "Pink Krawk Plushie",
-        83
-    ],
-    [
-        "Pink Scorchio Plushie",
-        95
-    ],
-    [
-        "Pink Skeith Plushie",
-        93
-    ],
-    [
-        "Pirate Quiggle Plushie",
-        93
-    ],
-    [
-        "Plains Lupe Neoquest Plushie",
-        97
-    ],
-    [
-        "Plushie Acara Plushie",
-        95
-    ],
-    [
-        "Plushie Blumaroo Plushie",
-        88
-    ],
-    [
-        "Plushie Eyrie Plushie",
-        67
-    ],
-    [
-        "Plushie Gelert Plushie",
-        91
-    ],
-    [
-        "Plushie Grundo Plushie",
-        89
-    ],
-    [
-        "Plushie Kau Plushie",
-        95
-    ],
-    [
-        "Plushie Kougra Plushie",
-        92
-    ],
-    [
-        "Plushie Mynci Plushie",
-        88
-    ],
-    [
-        "Plushie Quiggle Plushie",
-        96
-    ],
-    [
-        "Plushie Techo Plushie",
-        83
-    ],
-    [
-        "Pomanna Plushie",
-        99
-    ],
-    [
-        "Prince Jazan Plushie",
-        101
-    ],
-    [
-        "Purple Blumaroo Plushie",
-        101
-    ],
-    [
-        "Purple Brain Tree Plushie",
-        105
-    ],
-    [
-        "Purple Evil Fuzzle",
-        73
-    ],
-    [
-        "Purple Hissi Plushie",
-        86
-    ],
-    [
-        "Purple Kau Plushie",
-        101
-    ],
-    [
-        "Purple Koi Plushie",
-        97
-    ],
-    [
-        "Purple Kougra Plushie",
-        96
-    ],
-    [
-        "Purple Moehog Plushie",
-        101
-    ],
-    [
-        "Purple Mynci Plushie",
-        98
-    ],
-    [
-        "Purple Quiggle Plushie",
-        105
-    ],
-    [
-        "Purple Scorchio Plushie",
-        94
-    ],
-    [
-        "Purple Yurble Plushie",
-        93
-    ],
-    [
-        "Purple Zafara Plushie",
-        90
-    ],
-    [
-        "Quigquig Plushie",
-        106
-    ],
-    [
-        "Rag Mynci Plushie",
-        66
-    ],
-    [
-        "Rainbow Aisha Doll",
-        99
-    ],
-    [
-        "Rainbow Aisha Plushie",
-        70
-    ],
-    [
-        "Rainbow Blumaroo Plushie",
-        101
-    ],
-    [
-        "Rainbow Brain Tree Plushie",
-        110
-    ],
-    [
-        "Rainbow Buzz Plushie",
-        70
-    ],
-    [
-        "Rainbow Chomby Plushie",
-        86
-    ],
-    [
-        "Rainbow Cybunny Carrot Plushie",
-        101
-    ],
-    [
-        "Rainbow Cybunny Plushie",
-        94
-    ],
-    [
-        "Rainbow Evil Fuzzle",
-        99
-    ],
-    [
-        "Rainbow Florg Plushie",
-        101
-    ],
-    [
-        "Rainbow Flotsam Toy",
-        99
-    ],
-    [
-        "Rainbow Fuzzle",
-        97
-    ],
-    [
-        "Rainbow Gelert Plushie",
-        89
-    ],
-    [
-        "Rainbow Grarrl Plushie",
-        83
-    ],
-    [
-        "Rainbow Grundo Plushie",
-        99
-    ],
-    [
-        "Rainbow Hissi Plushie",
-        89
-    ],
-    [
-        "Rainbow Ixi Plushie",
-        91
-    ],
-    [
-        "Rainbow JubJub Plushie",
-        98
-    ],
-    [
-        "Rainbow Kacheek Plushie",
-        101
-    ],
-    [
-        "Rainbow Kau Doll",
-        97
-    ],
-    [
-        "Rainbow Kau Plushie",
-        105
-    ],
-    [
-        "Rainbow Korbat Plushie",
-        98
-    ],
-    [
-        "Rainbow Lenny Plushie",
-        87
-    ],
-    [
-        "Rainbow Moehog Plushie",
-        105
-    ],
-    [
-        "Rainbow Mynci Plushie",
-        83
-    ],
-    [
-        "Rainbow Negg Plushie",
-        94
-    ],
-    [
-        "Rainbow Nimmo Plushie",
-        89
-    ],
-    [
-        "Rainbow Peophin Plushie",
-        90
-    ],
-    [
-        "Rainbow Pteri Plushie",
-        79
-    ],
-    [
-        "Rainbow Quiggle Plushie",
-        105
-    ],
-    [
-        "Rainbow Reject Cybunny Plushie",
-        70
-    ],
-    [
-        "Rainbow Ruki Plushie",
-        96
-    ],
-    [
-        "Rainbow Scorchio Plushie",
-        95
-    ],
-    [
-        "Rainbow Skeith Plushie",
-        90
-    ],
-    [
-        "Rainbow Slorg Plushie",
-        90
-    ],
-    [
-        "Rainbow Spotted Kau Plushie",
-        180
-    ],
-    [
-        "Rainbow Techo Plushie",
-        105
-    ],
-    [
-        "Rainbow Tuskaninny Plushie",
-        99
-    ],
-    [
-        "Rainbow Uni Plushie",
-        99
-    ],
-    [
-        "Rainbow Usul Plushie",
-        89
-    ],
-    [
-        "Rainbow Wocky Plushie",
-        97
-    ],
-    [
-        "Rainbow Yurble Plushie",
-        92
-    ],
-    [
-        "Razul Plushie with Real Fire Action!",
-        101
-    ],
-    [
-        "Red Acara Plushie",
-        70
-    ],
-    [
-        "Red Aisha Doll",
-        86
-    ],
-    [
-        "Red Blumaroo Plushie",
-        101
-    ],
-    [
-        "Red Botanical Meerca Plushie",
-        96
-    ],
-    [
-        "Red Bruce Plushie",
-        68
-    ],
-    [
-        "Red Buzz Plushie",
-        45
-    ],
-    [
-        "Red Chomby Plushie",
-        71
-    ],
-    [
-        "Red Cybunny Plushie",
-        66
-    ],
-    [
-        "Red Elephante Plushie",
-        45
-    ],
-    [
-        "Red Eyrie Plushie",
-        83
-    ],
-    [
-        "Red Flotsam Plushie",
-        30
-    ],
-    [
-        "Red Gelert Plushie",
-        62
-    ],
-    [
-        "Red Grarrl Plushie",
-        82
-    ],
-    [
-        "Red Grundo Plushie",
-        80
-    ],
-    [
-        "Red Hissi Plushie",
-        45
-    ],
-    [
-        "Red Jetsam Plushie",
-        101
-    ],
-    [
-        "Red JubJub Plushie",
-        68
-    ],
-    [
-        "Red Kacheek Plushie",
-        77
-    ],
-    [
-        "Red Kau Doll",
-        97
-    ],
-    [
-        "Red Kau Plushie",
-        101
-    ],
-    [
-        "Red Koi Plushie",
-        68
-    ],
-    [
-        "Red Korbat Plushie",
-        73
-    ],
-    [
-        "Red Kougra Plushie",
-        70
-    ],
-    [
-        "Red Krawk Plushie",
-        81
-    ],
-    [
-        "Red Kyrii Plushie",
-        180
-    ],
-    [
-        "Red Lenny Plushie",
-        68
-    ],
-    [
-        "Red Lupe Chia Plushie",
-        86
-    ],
-    [
-        "Red Lutari Plushie",
-        59
-    ],
-    [
-        "Red Meerca Chase Plushie",
-        110
-    ],
-    [
-        "Red Meerca Plushie",
-        101
-    ],
-    [
-        "Red Moehog Plushie",
-        101
-    ],
-    [
-        "Red Mynci Plushie",
-        65
-    ],
-    [
-        "Red Nimmo Plushie",
-        50
-    ],
-    [
-        "Red Peophin Plushie",
-        85
-    ],
-    [
-        "Red Peophin Squishy Plushie",
-        96
-    ],
-    [
-        "Red Quiggle Plushie",
-        101
-    ],
-    [
-        "Red Ruki Plushie",
-        88
-    ],
-    [
-        "Red Scorchio Plushie",
-        91
-    ],
-    [
-        "Red Shoyru Plushie",
-        70
-    ],
-    [
-        "Red Skeith Plushie",
-        82
-    ],
-    [
-        "Red Techo Plushie",
-        101
-    ],
-    [
-        "Red Tonu Plushie",
-        85
-    ],
-    [
-        "Red Tuskaninny Plushie",
-        77
-    ],
-    [
-        "Red Uni Plushie",
-        66
-    ],
-    [
-        "Red Usul Plushie",
-        74
-    ],
-    [
-        "Red Wocky Plushie",
-        74
-    ],
-    [
-        "Red Yurble Plushie",
-        90
-    ],
-    [
-        "Red Zafara Plushie",
-        76
-    ],
-    [
-        "Reject Blue Acara Plushie",
-        99
-    ],
-    [
-        "Reject Blue Grarrl Plushie",
-        83
-    ],
-    [
-        "Reject Gelert Plushie",
-        99
-    ],
-    [
-        "Reject Green Acara Plushie",
-        99
-    ],
-    [
-        "Reject Green Grarrl Plushie",
-        83
-    ],
-    [
-        "Reject Jubjub Plushie",
-        70
-    ],
-    [
-        "Reject Purple Quiggle Plushie",
-        99
-    ],
-    [
-        "Reject Rainbow Grarrl Plushie",
-        89
-    ],
-    [
-        "Reject Red Acara Plushie",
-        99
-    ],
-    [
-        "Reject Red Grarrl Plushie",
-        83
-    ],
-    [
-        "Reject Retro Koi Plushie",
-        99
-    ],
-    [
-        "Reject Retro Purple Kougra Plushie",
-        99
-    ],
-    [
-        "Reject Retro Rainbow Cybunny Plushie",
-        99
-    ],
-    [
-        "Reject Yellow Acara Plushie",
-        99
-    ],
-    [
-        "Reject Yellow Grarrl Plushie",
-        83
-    ],
-    [
-        "Replica TDMBGPOP Plushie",
-        79
-    ],
-    [
-        "Retro Alien Jubjub Plushie",
-        98
-    ],
-    [
-        "Retro Black Fuzzle",
-        82
-    ],
-    [
-        "Retro Blue Acara Doll",
-        89
-    ],
-    [
-        "Retro Blue Acara Plushie",
-        98
-    ],
-    [
-        "Retro Blue Cybunny Plushie",
-        96
-    ],
-    [
-        "Retro Blue Elephante Plushie",
-        96
-    ],
-    [
-        "Retro Blue Flotsam Plushie",
-        98
-    ],
-    [
-        "Retro Blue Fuzzle",
-        77
-    ],
-    [
-        "Retro Blue Grarrl Plushie",
-        92
-    ],
-    [
-        "Retro Blue Koi Plushie",
-        95
-    ],
-    [
-        "Retro Blue Kougra Plushie",
-        97
-    ],
-    [
-        "Retro Blue Lenny Plushie",
-        96
-    ],
-    [
-        "Retro Blue Meerca Plushie",
-        95
-    ],
-    [
-        "Retro Blue Moehog Plushie",
-        95
-    ],
-    [
-        "Retro Blue Peohin Plushie",
-        97
-    ],
-    [
-        "Retro Blue Skeith Plushie",
-        93
-    ],
-    [
-        "Retro Cloud Fuzzle",
-        89
-    ],
-    [
-        "Retro Cloud Lenny Plushie",
-        99
-    ],
-    [
-        "Retro Disco Kau Plushie",
-        95
-    ],
-    [
-        "Retro Electric Kau Plushie",
-        95
-    ],
-    [
-        "Retro Ghost Fuzzle",
-        95
-    ],
-    [
-        "Retro Gold Meerca Plushie",
-        97
-    ],
-    [
-        "Retro Gold Moehog Plushie",
-        96
-    ],
-    [
-        "Retro Green Acara Doll",
-        89
-    ],
-    [
-        "Retro Green Cybunny Plushie",
-        96
-    ],
-    [
-        "Retro Green Elephante Plushie",
-        96
-    ],
-    [
-        "Retro Green Fuzzle",
-        77
-    ],
-    [
-        "Retro Green Grarrl Plushie",
-        92
-    ],
-    [
-        "Retro Green Kau Plushie",
-        95
-    ],
-    [
-        "Retro Green Koi Plushie",
-        95
-    ],
-    [
-        "Retro Green Kougra Plushie",
-        97
-    ],
-    [
-        "Retro Green Lenny Plushie",
-        96
-    ],
-    [
-        "Retro Green Peophin Plushie",
-        97
-    ],
-    [
-        "Retro Green Quiggle Plushie",
-        95
-    ],
-    [
-        "Retro Green Skeith Plushie",
-        93
-    ],
-    [
-        "Retro Orange Fuzzle",
-        77
-    ],
-    [
-        "Retro Orange Skeith Plushie",
-        95
-    ],
-    [
-        "Retro Pink Fuzzle",
-        82
-    ],
-    [
-        "Retro Pink Quiggle Plushie",
-        95
-    ],
-    [
-        "Retro Pink Skeith Plushie",
-        95
-    ],
-    [
-        "Retro Purple Fuzzle",
-        82
-    ],
-    [
-        "Retro Purple Kau Plushie",
-        95
-    ],
-    [
-        "Retro Purple Koi Plushie",
-        97
-    ],
-    [
-        "Retro Purple Kougra Plushie",
-        97
-    ],
-    [
-        "Retro Purple Moehog Plushie",
-        95
-    ],
-    [
-        "Retro Purple Quiggle Plushie",
-        95
-    ],
-    [
-        "Retro Rainbow Cybunny Plushie",
-        97
-    ],
-    [
-        "Retro Rainbow Kau Plushie",
-        95
-    ],
-    [
-        "Retro Rainbow Quiggle Plushie",
-        95
-    ],
-    [
-        "Retro Rainbow Skeith Plushie",
-        98
-    ],
-    [
-        "Retro Red Acara Doll",
-        89
-    ],
-    [
-        "Retro Red Acara Plushie",
-        98
-    ],
-    [
-        "Retro Red Cybunny Plushie",
-        96
-    ],
-    [
-        "Retro Red Elephante Plushie",
-        96
-    ],
-    [
-        "Retro Red Grarrl Plushie",
-        92
-    ],
-    [
-        "Retro Red Kau Plushie",
-        95
-    ],
-    [
-        "Retro Red Koi Plushie",
-        95
-    ],
-    [
-        "Retro Red Kougra Plushie",
-        97
-    ],
-    [
-        "Retro Red Meerca Plushie",
-        95
-    ],
-    [
-        "Retro Red Moehog Plushie",
-        95
-    ],
-    [
-        "Retro Red Quiggle Plushie",
-        95
-    ],
-    [
-        "Retro Red Skeith Plushie",
-        93
-    ],
-    [
-        "Retro Silver Kougra Plushie",
-        98
-    ],
-    [
-        "Retro Silver Moehog Plushie",
-        96
-    ],
-    [
-        "Retro Skunk Skeith Plushie",
-        95
-    ],
-    [
-        "Retro Spotted Fuzzle",
-        89
-    ],
-    [
-        "Retro Spotted Koi Plushie",
-        96
-    ],
-    [
-        "Retro Starry Fuzzle",
-        89
-    ],
-    [
-        "Retro Starry Skeith Plushie",
-        96
-    ],
-    [
-        "Retro Striped Fuzzle",
-        89
-    ],
-    [
-        "Retro Striped Lenny Plushie",
-        98
-    ],
-    [
-        "Retro White Fuzzle",
-        82
-    ],
-    [
-        "Retro White Skeith Plushie",
-        95
-    ],
-    [
-        "Retro Yellow Acara Doll",
-        89
-    ],
-    [
-        "Retro Yellow Cybunny Plushie",
-        96
-    ],
-    [
-        "Retro Yellow Elephante Plushie",
-        96
-    ],
-    [
-        "Retro Yellow Flotsam Plushie",
-        98
-    ],
-    [
-        "Retro Yellow Fuzzle",
-        77
-    ],
-    [
-        "Retro Yellow Grarrl Plushie",
-        92
-    ],
-    [
-        "Retro Yellow Koi Plushie",
-        95
-    ],
-    [
-        "Retro Yellow Kougra Plushie",
-        97
-    ],
-    [
-        "Retro Yellow Lenny Plushie",
-        96
-    ],
-    [
-        "Retro Yellow Meerca Plushie",
-        95
-    ],
-    [
-        "Retro Yellow Moehog Plushie",
-        95
-    ],
-    [
-        "Retro Yellow Peophin Plushie",
-        97
-    ],
-    [
-        "Retro Yellow Quiggle Plushie",
-        95
-    ],
-    [
-        "Retro Yellow Skeith Plushie",
-        93
-    ],
-    [
-        "Rikti Plushie",
-        99
-    ],
-    [
-        "Ripped Blue Chia Plushie",
-        101
-    ],
-    [
-        "Ripped Donny Plushie",
-        101
-    ],
-    [
-        "Ripped Mutant Chia Plushie",
-        101
-    ],
-    [
-        "Ripped Skarl",
-        101
-    ],
-    [
-        "Ripped Valentines Chia Plushie",
-        101
-    ],
-    [
-        "Robot Gelert Plushie",
-        88
-    ],
-    [
-        "Robot Hissi Plushie",
-        88
-    ],
-    [
-        "Robot Kau Plushie",
-        91
-    ],
-    [
-        "Robot Moehog Plushie",
-        90
-    ],
-    [
-        "Rock Golem Neoquest Plushie",
-        98
-    ],
-    [
-        "Royalboy Korbat Plushie",
-        89
-    ],
-    [
-        "Royalgirl Korbat Plushie",
-        89
-    ],
-    [
-        "Rustic Kougra Plushie",
-        66
-    ],
-    [
-        "Sand Golem Neoquest Plushie",
-        96
-    ],
-    [
-        "Scorcie Plushie",
-        105
-    ],
-    [
-        "Scordrax Plushie",
-        101
-    ],
-    [
-        "Scratchcard Kiosk Wocky Plushie",
-        101
-    ],
-    [
-        "Selket Plushie",
-        101
-    ],
-    [
-        "Serpentine Dervish Plushie",
-        99
-    ],
-    [
-        "Shadow Aisha Plushie",
-        89
-    ],
-    [
-        "Shadow Draik Plushie",
-        94
-    ],
-    [
-        "Shadow Kougra Plushie",
-        99
-    ],
-    [
-        "Shadow Krawk Plushie",
-        90
-    ],
-    [
-        "Shadow Lupe Plushie",
-        88
-    ],
-    [
-        "Shadow Usul Plushie",
-        99
-    ],
-    [
-        "Shock Lizard Plushie",
-        99
-    ],
-    [
-        "Silver Blumaroo Plushie",
-        105
-    ],
-    [
-        "Silver Chomby Plushie",
-        75
-    ],
-    [
-        "Silver Jetsam Plushie",
-        101
-    ],
-    [
-        "Silver Kougra Plushie",
-        98
-    ],
-    [
-        "Silver Moehog Plushie",
-        105
-    ],
-    [
-        "Silver Shoyru Plushie",
-        80
-    ],
-    [
-        "Silver Techo Plushie",
-        108
-    ],
-    [
-        "Skeleton Wocky Plushie",
-        90
-    ],
-    [
-        "Ski Lodge Mutant Kacheek Plushie",
-        109
-    ],
-    [
-        "Skunk Kacheek Plushie",
-        89
-    ],
-    [
-        "Skunk Mynci Plushie",
-        99
-    ],
-    [
-        "Skunk Skeith Plushie",
-        90
-    ],
-    [
-        "Sloth Faerie Plushie",
-        104
-    ],
-    [
-        "Snowbeast Plushie",
-        101
-    ],
-    [
-        "Soft Blue Vintage Cybunny Plushie",
-        97
-    ],
-    [
-        "Sophix II Plushie",
-        101
-    ],
-    [
-        "Soup Faerie Plushie",
-        94
-    ],
-    [
-        "Space Blumfaerie Plushie",
-        107
-    ],
-    [
-        "Special Edition Battle Plushie",
-        101
-    ],
-    [
-        "Speckled Nimmo Plushie",
-        99
-    ],
-    [
-        "Spotted Blumaroo Plushie",
-        105
-    ],
-    [
-        "Spotted Gelert Plushie",
-        99
-    ],
-    [
-        "Spotted Kau Plushie",
-        93
-    ],
-    [
-        "Spotted Koi Plushie",
-        99
-    ],
-    [
-        "Spotted Lupe Plushie",
-        94
-    ],
-    [
-        "Spotted Uni Plushie",
-        92
-    ],
-    [
-        "Starry Blumaroo Plushie",
-        105
-    ],
-    [
-        "Starry Hissi Plushie",
-        88
-    ],
-    [
-        "Starry Kau Plushie",
-        64
-    ],
-    [
-        "Starry Scorchio Plushie",
-        94
-    ],
-    [
-        "Starry Techo Plushie",
-        108
-    ],
-    [
-        "Starry Tonu Plushie",
-        89
-    ],
-    [
-        "Starry Tuskaninny Plushie",
-        88
-    ],
-    [
-        "Starry Uni Plushie",
-        98
-    ],
-    [
-        "Starry Yurble Plushie",
-        95
-    ],
-    [
-        "Steel Golem Neoquest Plushie",
-        99
-    ],
-    [
-        "Stone Golem Neoquest Plushie",
-        97
-    ],
-    [
-        "Strawberry Chocolate Yurble Plushie",
-        91
-    ],
-    [
-        "Strawberry JubJub Plushie",
-        97
-    ],
-    [
-        "Strawberry Milkshake Kau Plushie",
-        180
-    ],
-    [
-        "Striped Eyrie Plushie",
-        180
-    ],
-    [
-        "Striped Koi Plushie",
-        90
-    ],
-    [
-        "Striped Korbat Plushie",
-        98
-    ],
-    [
-        "Striped Lenny Plushie",
-        98
-    ],
-    [
-        "Striped Techo Plushie",
-        108
-    ],
-    [
-        "Swamp Lupe Neoquest Plushie",
-        99
-    ],
-    [
-        "Swirly Kiko Plushie",
-        101
-    ],
-    [
-        "Tai-Kai Codestone Plushie",
-        80
-    ],
-    [
-        "Talking Korbat Plushie",
-        89
-    ],
-    [
-        "Techo Fanatic Plushie",
-        99
-    ],
-    [
-        "The Ghost Lupe Plushie",
-        101
-    ],
-    [
-        "Thunder Lizard Plushie",
-        99
-    ],
-    [
-        "Turmaculus Plushie",
-        101
-    ],
-    [
-        "Two Rings Archmagus Plushie",
-        99
-    ],
-    [
-        "Tylix Plushie",
-        98
-    ],
-    [
-        "Tyrannian Acara Plushie",
-        93
-    ],
-    [
-        "Tyrannian Cybunny Plushie",
-        89
-    ],
-    [
-        "Tyrannian Koi Plushie",
-        89
-    ],
-    [
-        "Tyrannian Nimmo Plushie",
-        88
-    ],
-    [
-        "Tyrannian Quiggle Plushie",
-        89
-    ],
-    [
-        "Tyrannian Shoyru Plushie",
-        87
-    ],
-    [
-        "Tyrannian Skeith Action Plushie",
-        84
-    ],
-    [
-        "Tyrannian Skeith Plushie",
-        92
-    ],
-    [
-        "Tyrannian Techo Plushie",
-        99
-    ],
-    [
-        "Tyrannian Tonu Plushie",
-        89
-    ],
-    [
-        "Tyrannian Tuskaninny Plushie",
-        96
-    ],
-    [
-        "Ummagine Plushie",
-        101
-    ],
-    [
-        "Un-Valentines Tonu Plushie",
-        85
-    ],
-    [
-        "Usulbat Plushie",
-        103
-    ],
-    [
-        "Valentine Kiko Plushie",
-        89
-    ],
-    [
-        "Valentine Mynci Plushie",
-        89
-    ],
-    [
-        "Valentines Bruce Plushie",
-        89
-    ],
-    [
-        "Valentines Chia Plushie",
-        89
-    ],
-    [
-        "Valentines Quiggle Plushie",
-        89
-    ],
-    [
-        "Valentines Shoyru Plushie",
-        89
-    ],
-    [
-        "Valentines Wocky Plushie",
-        89
-    ],
-    [
-        "Valentines Yurble Plushie",
-        89
-    ],
-    [
-        "Vo Codestone Plushie",
-        80
-    ],
-    [
-        "Von Kougra Plushie",
-        102
-    ],
-    [
-        "Von Roo Plushie",
-        101
-    ],
-    [
-        "White Blumaroo Plushie",
-        105
-    ],
-    [
-        "White Cybunny Plushie",
-        83
-    ],
-    [
-        "White Ixi Plushie",
-        99
-    ],
-    [
-        "White Meerca Plushie",
-        103
-    ],
-    [
-        "White Ruki Plushie",
-        92
-    ],
-    [
-        "White Scorchio Plushie",
-        93
-    ],
-    [
-        "White Techo Plushie",
-        108
-    ],
-    [
-        "White Tuskaninny Plushie",
-        90
-    ],
-    [
-        "White Yurble Plushie",
-        95
-    ],
-    [
-        "Yellow Acara Plushie",
-        70
-    ],
-    [
-        "Yellow Aisha Doll",
-        89
-    ],
-    [
-        "Yellow Aisha Plushie",
-        43
-    ],
-    [
-        "Yellow Blumaroo Plushie",
-        101
-    ],
-    [
-        "Yellow Brain Tree Plushie",
-        101
-    ],
-    [
-        "Yellow Bruce Plushie",
-        71
-    ],
-    [
-        "Yellow Buzz Plushie",
-        59
-    ],
-    [
-        "Yellow Chia Plushie",
-        45
-    ],
-    [
-        "Yellow Chomby Plushie",
-        73
-    ],
-    [
-        "Yellow Cybunny Plushie",
-        58
-    ],
-    [
-        "Yellow Elephante Plushie",
-        49
-    ],
-    [
-        "Yellow Evil Fuzzle",
-        66
-    ],
-    [
-        "Yellow Eyrie Plushie",
-        82
-    ],
-    [
-        "Yellow Flotsam Plushie",
-        49
-    ],
-    [
-        "Yellow Gelert Plushie",
-        60
-    ],
-    [
-        "Yellow Grarrl Plushie",
-        85
-    ],
-    [
-        "Yellow Grundo Plushie",
-        82
-    ],
-    [
-        "Yellow Hissi Plushie",
-        48
-    ],
-    [
-        "Yellow Igloo Chia Plushie",
-        89
-    ],
-    [
-        "Yellow Jetsam Plushie",
-        101
-    ],
-    [
-        "Yellow JubJub Plushie",
-        70
-    ],
-    [
-        "Yellow Kacheek Plushie",
-        50
-    ],
-    [
-        "Yellow Kau Plushie",
-        101
-    ],
-    [
-        "Yellow Koi Plushie",
-        67
-    ],
-    [
-        "Yellow Korbat Plushie",
-        75
-    ],
-    [
-        "Yellow Kougra Plushie",
-        60
-    ],
-    [
-        "Yellow Krawk Plushie",
-        79
-    ],
-    [
-        "Yellow Kyrii Plushie",
-        50
-    ],
-    [
-        "Yellow Lenny Plushie",
-        67
-    ],
-    [
-        "Yellow Lupe Chia Plushie",
-        87
-    ],
-    [
-        "Yellow Lupe Plushie",
-        50
-    ],
-    [
-        "Yellow Lutari Plushie",
-        60
-    ],
-    [
-        "Yellow Meerca Chase Plushie",
-        110
-    ],
-    [
-        "Yellow Meerca Plushie",
-        101
-    ],
-    [
-        "Yellow Moehog Plushie",
-        101
-    ],
-    [
-        "Yellow Mynci Plushie",
-        75
-    ],
-    [
-        "Yellow Nimmo Plushie",
-        45
-    ],
-    [
-        "Yellow Peophin Plushie",
-        87
-    ],
-    [
-        "Yellow Pteri Plushie",
-        65
-    ],
-    [
-        "Yellow Quiggle Plushie",
-        101
-    ],
-    [
-        "Yellow Ruki Plushie",
-        87
-    ],
-    [
-        "Yellow Scorchio Plushie",
-        90
-    ],
-    [
-        "Yellow Shoyru Plushie",
-        70
-    ],
-    [
-        "Yellow Skeith Plushie",
-        84
-    ],
-    [
-        "Yellow Techo Plushie",
-        103
-    ],
-    [
-        "Yellow Tonu Plushie",
-        87
-    ],
-    [
-        "Yellow Tuskaninny Plushie",
-        84
-    ],
-    [
-        "Yellow Uni Plushie",
-        67
-    ],
-    [
-        "Yellow Usul Plushie",
-        78
-    ],
-    [
-        "Yellow Wocky Plushie",
-        82
-    ],
-    [
-        "Yellow Yurble Plushie",
-        80
-    ],
-    [
-        "Yellow Zafara Plushie",
-        78
-    ],
-    [
-        "Ylana Skyfire Plushie",
-        101
-    ],
-    [
-        "Zei Codestone Plushie",
-        80
-    ]
+  [
+    "Limited Edition Evil Chia Plushie",
+    101
+  ],
+  [
+    "Orange Peophin Squishy Plushie",
+    96
+  ],
+  [
+    "Blue Chia Plushie",
+    38
+  ],
+  [
+    "Red Chia Plushie",
+    60
+  ],
+  [
+    "Yellow Chia Plushie",
+    45
+  ],
+  [
+    "Rainbow Fuzzle",
+    97
+  ],
+  [
+    "Purple Fuzzle",
+    70
+  ],
+  [
+    "Orange Fuzzle",
+    70
+  ],
+  [
+    "Green Chia Plushie",
+    80
+  ],
+  [
+    "Blue Peophin Squishy Plushie",
+    96
+  ],
+  [
+    "Blue Fuzzle",
+    70
+  ],
+  [
+    "Faerie Lenny Plushie",
+    80
+  ],
+  [
+    "Green Fuzzle",
+    70
+  ],
+  [
+    "Retro Green Lenny Plushie",
+    96
+  ],
+  [
+    "Yellow Fuzzle",
+    70
+  ],
+  [
+    "Blue Lupe Plushie",
+    60
+  ],
+  [
+    "Blue Acara Plushie",
+    55
+  ],
+  [
+    "Yellow Lupe Plushie",
+    50
+  ],
+  [
+    "Angel Chia Plushie",
+    96
+  ],
+  [
+    "Red Acara Plushie",
+    70
+  ],
+  [
+    "Green Peophin Squishy Plushie",
+    96
+  ],
+  [
+    "Blue Flotsam Plushie",
+    44
+  ],
+  [
+    "Pink Babaa Plushie",
+    90
+  ],
+  [
+    "Broken Blue Fuzzle",
+    101
+  ],
+  [
+    "Green Acara Plushie",
+    65
+  ],
+  [
+    "Rainbow Buzz Plushie",
+    70
+  ],
+  [
+    "Green Buzz Plushie",
+    35
+  ],
+  [
+    "Red Peophin Squishy Plushie",
+    96
+  ],
+  [
+    "Pink Fuzzle",
+    70
+  ],
+  [
+    "Yellow Acara Plushie",
+    70
+  ],
+  [
+    "Green Elephante Plushie",
+    65
+  ],
+  [
+    "Red Elephante Plushie",
+    45
+  ],
+  [
+    "Yellow Buzz Plushie",
+    59
+  ],
+  [
+    "Magical Green Elephante Toy",
+    99
+  ],
+  [
+    "Pink Aisha Plushie",
+    95
+  ],
+  [
+    "Red Buzz Plushie",
+    45
+  ],
+  [
+    "Green Aisha Plushie",
+    30
+  ],
+  [
+    "Magical Red Buzz Plushie",
+    98
+  ],
+  [
+    "Yellow Aisha Plushie",
+    43
+  ],
+  [
+    "Red Flotsam Plushie",
+    30
+  ],
+  [
+    "Green Poogle Toy",
+    101
+  ],
+  [
+    "Yellow Poogle Toy",
+    101
+  ],
+  [
+    "Rainbow Aisha Plushie",
+    70
+  ],
+  [
+    "Yellow Flotsam Plushie",
+    49
+  ],
+  [
+    "Pink Poogle Toy",
+    101
+  ],
+  [
+    "Green Flotsam Plushie",
+    60
+  ],
+  [
+    "Green Kougra Plushie",
+    65
+  ],
+  [
+    "Yellow Elephante Plushie",
+    49
+  ],
+  [
+    "Magical Purple Poogle Toy",
+    105
+  ],
+  [
+    "Yellow Kougra Plushie",
+    60
+  ],
+  [
+    "Magical Rainbow Aisha Plushie",
+    99
+  ],
+  [
+    "Purple Poogle Toy",
+    103
+  ],
+  [
+    "Silver Kougra Plushie",
+    98
+  ],
+  [
+    "Burgundy Grundo Plushie",
+    70
+  ],
+  [
+    "Blue Poogle Plushie",
+    101
+  ],
+  [
+    "Purple Kougra Plushie",
+    96
+  ],
+  [
+    "Red Kougra Plushie",
+    70
+  ],
+  [
+    "Blue Kougra Plushie",
+    65
+  ],
+  [
+    "Magical Yellow Poogle Toy",
+    105
+  ],
+  [
+    "Super Blue Poogle Plushie",
+    103
+  ],
+  [
+    "Blue Skeith Plushie",
+    86
+  ],
+  [
+    "Yellow Tuskaninny Plushie",
+    84
+  ],
+  [
+    "Blue Wocky Plushie",
+    72
+  ],
+  [
+    "Red Kau Plushie",
+    101
+  ],
+  [
+    "Blue Techo Plushie",
+    101
+  ],
+  [
+    "Yellow Kau Plushie",
+    101
+  ],
+  [
+    "Rainbow Techo Plushie",
+    105
+  ],
+  [
+    "Red Techo Plushie",
+    101
+  ],
+  [
+    "Blue Chomby Plushie",
+    72
+  ],
+  [
+    "Yellow Techo Plushie",
+    103
+  ],
+  [
+    "Green Tuskaninny Plushie",
+    76
+  ],
+  [
+    "Red Tuskaninny Plushie",
+    77
+  ],
+  [
+    "Green Kau Plushie",
+    101
+  ],
+  [
+    "Gold Chomby Plushie",
+    80
+  ],
+  [
+    "Red Skeith Plushie",
+    82
+  ],
+  [
+    "Rainbow Skeith Plushie",
+    90
+  ],
+  [
+    "Blue Tuskaninny Plushie",
+    75
+  ],
+  [
+    "Green Techo Plushie",
+    101
+  ],
+  [
+    "Green Usul Plushie",
+    73
+  ],
+  [
+    "Blue Usul Plushie",
+    70
+  ],
+  [
+    "Purple Kau Plushie",
+    101
+  ],
+  [
+    "Yellow Chomby Plushie",
+    73
+  ],
+  [
+    "Yellow Wocky Plushie",
+    82
+  ],
+  [
+    "Green Skeith Plushie",
+    80
+  ],
+  [
+    "Yellow Usul Plushie",
+    78
+  ],
+  [
+    "Green Wocky Plushie",
+    73
+  ],
+  [
+    "Red Wocky Plushie",
+    74
+  ],
+  [
+    "Yellow Skeith Plushie",
+    84
+  ],
+  [
+    "Red Chomby Plushie",
+    71
+  ],
+  [
+    "Red Usul Plushie",
+    74
+  ],
+  [
+    "Rainbow Tuskaninny Plushie",
+    99
+  ],
+  [
+    "White Techo Plushie",
+    108
+  ],
+  [
+    "Silver Techo Plushie",
+    108
+  ],
+  [
+    "Rainbow Scorchio Plushie",
+    95
+  ],
+  [
+    "Blue Cybunny Plushie",
+    50
+  ],
+  [
+    "Rainbow Wocky Plushie",
+    97
+  ],
+  [
+    "Purple Quiggle Plushie",
+    105
+  ],
+  [
+    "Green Quiggle Plushie",
+    101
+  ],
+  [
+    "Yellow Quiggle Plushie",
+    101
+  ],
+  [
+    "Red Quiggle Plushie",
+    101
+  ],
+  [
+    "Magical Silver Kougra Plushie",
+    98
+  ],
+  [
+    "Rainbow Blumaroo Plushie",
+    101
+  ],
+  [
+    "Red Scorchio Plushie",
+    91
+  ],
+  [
+    "Green Chomby Plushie",
+    74
+  ],
+  [
+    "Rainbow Quiggle Plushie",
+    105
+  ],
+  [
+    "Green Scorchio Plushie",
+    93
+  ],
+  [
+    "Green Blumaroo Plushie",
+    101
+  ],
+  [
+    "Red Blumaroo Plushie",
+    101
+  ],
+  [
+    "Starry Techo Plushie",
+    108
+  ],
+  [
+    "Rainbow Usul Plushie",
+    89
+  ],
+  [
+    "Purple Scorchio Plushie",
+    94
+  ],
+  [
+    "Yellow Scorchio Plushie",
+    90
+  ],
+  [
+    "Yellow Blumaroo Plushie",
+    101
+  ],
+  [
+    "Striped Techo Plushie",
+    108
+  ],
+  [
+    "Magical Starry Techo Plushie",
+    111
+  ],
+  [
+    "Von Roo Plushie",
+    101
+  ],
+  [
+    "Purple Blumaroo Plushie",
+    101
+  ],
+  [
+    "Blue Quiggle Plushie",
+    101
+  ],
+  [
+    "Blue Scorchio Plushie",
+    92
+  ],
+  [
+    "Blue Blumaroo Plushie",
+    101
+  ],
+  [
+    "Silver Blumaroo Plushie",
+    105
+  ],
+  [
+    "Rainbow Kau Plushie",
+    105
+  ],
+  [
+    "Blue Grundo Plushie",
+    83
+  ],
+  [
+    "Green Brain Tree Plushie",
+    101
+  ],
+  [
+    "Green Grundo Plushie",
+    81
+  ],
+  [
+    "Red Cybunny Plushie",
+    66
+  ],
+  [
+    "Rainbow Grundo Plushie",
+    99
+  ],
+  [
+    "Pink Brain Tree Plushie",
+    101
+  ],
+  [
+    "Blue Meerca Plushie",
+    101
+  ],
+  [
+    "Electric Kau Plushie",
+    105
+  ],
+  [
+    "Red Grundo Plushie",
+    80
+  ],
+  [
+    "Yellow Brain Tree Plushie",
+    101
+  ],
+  [
+    "Yellow Grundo Plushie",
+    82
+  ],
+  [
+    "Red Moehog Plushie",
+    101
+  ],
+  [
+    "Blue Brain Tree Plushie",
+    101
+  ],
+  [
+    "White Blumaroo Plushie",
+    105
+  ],
+  [
+    "Rainbow Cybunny Plushie",
+    94
+  ],
+  [
+    "Official Brain Tree Plushie",
+    101
+  ],
+  [
+    "Red Meerca Plushie",
+    101
+  ],
+  [
+    "Disco Kau Plushie",
+    105
+  ],
+  [
+    "Rainbow Reject Cybunny Plushie",
+    70
+  ],
+  [
+    "Starry Blumaroo Plushie",
+    105
+  ],
+  [
+    "Spotted Blumaroo Plushie",
+    105
+  ],
+  [
+    "Purple Moehog Plushie",
+    101
+  ],
+  [
+    "Blue Moehog Plushie",
+    101
+  ],
+  [
+    "Purple Brain Tree Plushie",
+    105
+  ],
+  [
+    "Green Cybunny Plushie",
+    62
+  ],
+  [
+    "Rainbow Brain Tree Plushie",
+    110
+  ],
+  [
+    "Yellow Cybunny Plushie",
+    58
+  ],
+  [
+    "Yellow Moehog Plushie",
+    101
+  ],
+  [
+    "Yellow Shoyru Plushie",
+    70
+  ],
+  [
+    "Magical Gold Chomby Plushie",
+    101
+  ],
+  [
+    "Yellow Aisha Doll",
+    89
+  ],
+  [
+    "Red Meerca Chase Plushie",
+    110
+  ],
+  [
+    "Magical Gold Meerca Plushie",
+    115
+  ],
+  [
+    "Green Shoyru Plushie",
+    75
+  ],
+  [
+    "White Meerca Plushie",
+    103
+  ],
+  [
+    "Gold Moehog Plushie",
+    105
+  ],
+  [
+    "Red Shoyru Plushie",
+    70
+  ],
+  [
+    "Green Meerca Chase Plushie",
+    110
+  ],
+  [
+    "Rainbow Moehog Plushie",
+    105
+  ],
+  [
+    "Yellow Meerca Chase Plushie",
+    110
+  ],
+  [
+    "Green Aisha Doll",
+    92
+  ],
+  [
+    "Yellow Meerca Plushie",
+    101
+  ],
+  [
+    "Magical Blue Shoyru Plushie",
+    99
+  ],
+  [
+    "Gold Meerca Plushie",
+    105
+  ],
+  [
+    "Silver Moehog Plushie",
+    105
+  ],
+  [
+    "Silver Chomby Plushie",
+    75
+  ],
+  [
+    "Red Aisha Doll",
+    86
+  ],
+  [
+    "Blue Jetsam Plushie",
+    101
+  ],
+  [
+    "Silver Shoyru Plushie",
+    80
+  ],
+  [
+    "Green Meerca Plushie",
+    101
+  ],
+  [
+    "Blue Meerca Chase Plushie",
+    110
+  ],
+  [
+    "Green Jetsam Plushie",
+    101
+  ],
+  [
+    "Magical Red Chomby Plushie",
+    101
+  ],
+  [
+    "Yellow Jetsam Plushie",
+    101
+  ],
+  [
+    "Blue Shoyru Plushie",
+    75
+  ],
+  [
+    "Golden Shoyru Plushie",
+    83
+  ],
+  [
+    "Christmas Kau Plushie",
+    99
+  ],
+  [
+    "Blue Aisha Doll",
+    97
+  ],
+  [
+    "Green Kacheek Plushie",
+    40
+  ],
+  [
+    "Yellow Evil Fuzzle",
+    66
+  ],
+  [
+    "Gold Jetsam Plushie",
+    101
+  ],
+  [
+    "Tyrannian Skeith Action Plushie",
+    84
+  ],
+  [
+    "Blue Evil Fuzzle",
+    60
+  ],
+  [
+    "Silver Jetsam Plushie",
+    101
+  ],
+  [
+    "Orange Pteri Plushie",
+    65
+  ],
+  [
+    "Yellow Pteri Plushie",
+    65
+  ],
+  [
+    "Green Pteri Plushie",
+    66
+  ],
+  [
+    "Skunk Kacheek Plushie",
+    89
+  ],
+  [
+    "Red Kacheek Plushie",
+    77
+  ],
+  [
+    "Red Jetsam Plushie",
+    101
+  ],
+  [
+    "Tyrannian Skeith Plushie",
+    92
+  ],
+  [
+    "Chia Bomber Attack Plushie",
+    89
+  ],
+  [
+    "Chia Bomber Plushie",
+    90
+  ],
+  [
+    "Grey Evil Fuzzle",
+    64
+  ],
+  [
+    "Purple Evil Fuzzle",
+    73
+  ],
+  [
+    "Blue Kacheek Plushie",
+    46
+  ],
+  [
+    "Grarrg Action Plushie",
+    93
+  ],
+  [
+    "Pink Evil Fuzzle",
+    65
+  ],
+  [
+    "Blue Pteri Plushie",
+    64
+  ],
+  [
+    "Monoceraptor Plushie",
+    99
+  ],
+  [
+    "Black Fuzzle",
+    80
+  ],
+  [
+    "Magical Blue Kacheek Plushie",
+    99
+  ],
+  [
+    "Rainbow Evil Fuzzle",
+    99
+  ],
+  [
+    "Grey Fuzzle",
+    70
+  ],
+  [
+    "Yellow Kacheek Plushie",
+    50
+  ],
+  [
+    "Grarrg Battle Plushie",
+    91
+  ],
+  [
+    "Black Evil Fuzzle",
+    94
+  ],
+  [
+    "Green Evil Fuzzle",
+    70
+  ],
+  [
+    "Magical Green Pteri Plushie",
+    101
+  ],
+  [
+    "Blue Kyrii Plushie",
+    55
+  ],
+  [
+    "Magical Rainbow Blumaroo Plushie",
+    99
+  ],
+  [
+    "Magical Red Blumaroo Plushie",
+    99
+  ],
+  [
+    "Green Gelert Plushie",
+    59
+  ],
+  [
+    "Magical Blue Pteri Plushie",
+    101
+  ],
+  [
+    "Magical Blue Chomby Plushie",
+    101
+  ],
+  [
+    "Cloud Gelert Plushie",
+    90
+  ],
+  [
+    "Red Gelert Plushie",
+    62
+  ],
+  [
+    "Special Edition Battle Plushie",
+    101
+  ],
+  [
+    "Blue Gelert Plushie",
+    58
+  ],
+  [
+    "Yellow Gelert Plushie",
+    60
+  ],
+  [
+    "Green Kyrii Plushie",
+    60
+  ],
+  [
+    "Magical Red Usul Plushie",
+    99
+  ],
+  [
+    "Orange Evil Fuzzle",
+    68
+  ],
+  [
+    "Magical Red Pteri Plushie",
+    101
+  ],
+  [
+    "Magical Spotted Blumaroo Plushie",
+    99
+  ],
+  [
+    "Rainbow Gelert Plushie",
+    89
+  ],
+  [
+    "Magical Yellow Pteri Plushie",
+    101
+  ],
+  [
+    "Magical Cloud Gelert Plushie",
+    99
+  ],
+  [
+    "Magical Green Gelert Plushie",
+    99
+  ],
+  [
+    "Magical Green Chomby Plushie",
+    101
+  ],
+  [
+    "Magical Red Gelert Plushie",
+    99
+  ],
+  [
+    "Magical Purple Blumaroo Plushie",
+    99
+  ],
+  [
+    "Blue Nimmo Plushie",
+    48
+  ],
+  [
+    "Maverick Plushie",
+    101
+  ],
+  [
+    "Green Nimmo Plushie",
+    71
+  ],
+  [
+    "Reject Gelert Plushie",
+    99
+  ],
+  [
+    "Red Kyrii Plushie",
+    70
+  ],
+  [
+    "Yellow Kyrii Plushie",
+    50
+  ],
+  [
+    "Red Nimmo Plushie",
+    50
+  ],
+  [
+    "Speckled Nimmo Plushie",
+    99
+  ],
+  [
+    "Blue Eyrie Plushie",
+    84
+  ],
+  [
+    "Magical Red Grarrl Plushie",
+    99
+  ],
+  [
+    "Reject Red Acara Plushie",
+    99
+  ],
+  [
+    "Yellow Nimmo Plushie",
+    45
+  ],
+  [
+    "Red Eyrie Plushie",
+    83
+  ],
+  [
+    "Yellow Eyrie Plushie",
+    82
+  ],
+  [
+    "Magical Yellow Skeith Plushie",
+    99
+  ],
+  [
+    "Yellow Zafara Plushie",
+    78
+  ],
+  [
+    "Blue Bruce Plushie",
+    65
+  ],
+  [
+    "Reject Green Acara Plushie",
+    99
+  ],
+  [
+    "Yellow Grarrl Plushie",
+    85
+  ],
+  [
+    "Green Zafara Plushie",
+    70
+  ],
+  [
+    "Green Eyrie Plushie",
+    80
+  ],
+  [
+    "Blue Zafara Plushie",
+    74
+  ],
+  [
+    "Red Bruce Plushie",
+    68
+  ],
+  [
+    "Red Zafara Plushie",
+    76
+  ],
+  [
+    "Green Grarrl Plushie",
+    84
+  ],
+  [
+    "Reject Blue Acara Plushie",
+    99
+  ],
+  [
+    "Blue Grarrl Plushie",
+    83
+  ],
+  [
+    "Magical Purple Zafara Plushie",
+    99
+  ],
+  [
+    "Striped Eyrie Plushie",
+    85
+  ],
+  [
+    "Red Grarrl Plushie",
+    82
+  ],
+  [
+    "Yellow Bruce Plushie",
+    71
+  ],
+  [
+    "Magical Red Skeith Plushie",
+    99
+  ],
+  [
+    "Green Bruce Plushie",
+    67
+  ],
+  [
+    "Fire Eyrie Plushie",
+    99
+  ],
+  [
+    "Reject Yellow Acara Plushie",
+    99
+  ],
+  [
+    "Purple Zafara Plushie",
+    90
+  ],
+  [
+    "Halloween JubJub Plushie",
+    99
+  ],
+  [
+    "Denethrir Plushie",
+    98
+  ],
+  [
+    "Green Mynci Plushie",
+    70
+  ],
+  [
+    "Red Mynci Plushie",
+    65
+  ],
+  [
+    "Disco Bruce Plushie",
+    99
+  ],
+  [
+    "Yellow Mynci Plushie",
+    75
+  ],
+  [
+    "Blue Mynci Plushie",
+    65
+  ],
+  [
+    "Blue Uni Plushie",
+    65
+  ],
+  [
+    "Yellow Uni Plushie",
+    67
+  ],
+  [
+    "Skunk Mynci Plushie",
+    99
+  ],
+  [
+    "Yellow Korbat Plushie",
+    75
+  ],
+  [
+    "Red Uni Plushie",
+    66
+  ],
+  [
+    "Giant Moehog Plushie",
+    98
+  ],
+  [
+    "Red JubJub Plushie",
+    68
+  ],
+  [
+    "Christmas Bruce Plushie",
+    97
+  ],
+  [
+    "Striped Korbat Plushie",
+    98
+  ],
+  [
+    "Tylix Plushie",
+    98
+  ],
+  [
+    "Red Korbat Plushie",
+    73
+  ],
+  [
+    "Rainbow Uni Plushie",
+    99
+  ],
+  [
+    "Starry Uni Plushie",
+    98
+  ],
+  [
+    "Purple Mynci Plushie",
+    98
+  ],
+  [
+    "Blue JubJub Plushie",
+    66
+  ],
+  [
+    "Yellow JubJub Plushie",
+    70
+  ],
+  [
+    "Strawberry JubJub Plushie",
+    97
+  ],
+  [
+    "Green JubJub Plushie",
+    67
+  ],
+  [
+    "Green Uni Plushie",
+    65
+  ],
+  [
+    "Blue Korbat Plushie",
+    74
+  ],
+  [
+    "Christmas Korbat Plushie",
+    99
+  ],
+  [
+    "Drakonid Plushie",
+    98
+  ],
+  [
+    "Green Korbat Plushie",
+    70
+  ],
+  [
+    "Fire Lizard Plushie",
+    99
+  ],
+  [
+    "Lightning Lizard Plushie",
+    99
+  ],
+  [
+    "Mokti Plushie",
+    99
+  ],
+  [
+    "Leirobas Plushie",
+    99
+  ],
+  [
+    "Archmagus of Roo Plushie",
+    99
+  ],
+  [
+    "Thunder Lizard Plushie",
+    99
+  ],
+  [
+    "Green Lenny Plushie",
+    67
+  ],
+  [
+    "Electro Lizard Plushie",
+    99
+  ],
+  [
+    "Chaos Giant Plushie",
+    99
+  ],
+  [
+    "Cloud Lenny Plushie",
+    99
+  ],
+  [
+    "Green Koi Plushie",
+    70
+  ],
+  [
+    "Shock Lizard Plushie",
+    99
+  ],
+  [
+    "Pomanna Plushie",
+    99
+  ],
+  [
+    "Frost Lizard Plushie",
+    99
+  ],
+  [
+    "Purple Koi Plushie",
+    97
+  ],
+  [
+    "Frozen Lizard Plushie",
+    99
+  ],
+  [
+    "Rikti Plushie",
+    99
+  ],
+  [
+    "Red Koi Plushie",
+    68
+  ],
+  [
+    "Green Alien Aisha Plushie",
+    101
+  ],
+  [
+    "Yellow Koi Plushie",
+    67
+  ],
+  [
+    "Blue Koi Plushie",
+    65
+  ],
+  [
+    "Inferno Lizard Plushie",
+    99
+  ],
+  [
+    "Boraxis Plushie",
+    99
+  ],
+  [
+    "Spotted Koi Plushie",
+    99
+  ],
+  [
+    "Striped Lenny Plushie",
+    98
+  ],
+  [
+    "Ferocious Snowager Plushie",
+    101
+  ],
+  [
+    "Blue Lenny Plushie",
+    68
+  ],
+  [
+    "Red Lenny Plushie",
+    68
+  ],
+  [
+    "NeoQuest Hero Plushie",
+    99
+  ],
+  [
+    "Yellow Lenny Plushie",
+    67
+  ],
+  [
+    "Rock Golem Neoquest Plushie",
+    98
+  ],
+  [
+    "Two Rings Archmagus Plushie",
+    99
+  ],
+  [
+    "Brown Wadjet Plushie",
+    99
+  ],
+  [
+    "Plains Lupe Neoquest Plushie",
+    97
+  ],
+  [
+    "Lazulite Dervish Plushie",
+    99
+  ],
+  [
+    "Guardian of Fire Magic Plushie",
+    99
+  ],
+  [
+    "Swamp Lupe Neoquest Plushie",
+    99
+  ],
+  [
+    "Gloom Kougra Plushie",
+    99
+  ],
+  [
+    "Dirt Golem Neoquest Plushie",
+    95
+  ],
+  [
+    "Stone Golem Neoquest Plushie",
+    97
+  ],
+  [
+    "Iron Golem Neoquest Plushie",
+    97
+  ],
+  [
+    "Steel Golem Neoquest Plushie",
+    99
+  ],
+  [
+    "Faleinn Plushie",
+    99
+  ],
+  [
+    "Cave Lupe Neoquest Plushie",
+    94
+  ],
+  [
+    "Dire Lupe Neoquest Plushie",
+    92
+  ],
+  [
+    "Grey Lupe Neoquest Plushie",
+    96
+  ],
+  [
+    "Jahbal Plushie",
+    99
+  ],
+  [
+    "Black Wadjet Plushie",
+    99
+  ],
+  [
+    "Mastermind Plushie",
+    100
+  ],
+  [
+    "Shadow Usul Plushie",
+    99
+  ],
+  [
+    "Sand Golem Neoquest Plushie",
+    96
+  ],
+  [
+    "Grizzly Bearog Plushie",
+    97
+  ],
+  [
+    "Mist Kougra Plushie",
+    99
+  ],
+  [
+    "Shadow Kougra Plushie",
+    99
+  ],
+  [
+    "Lightning Giant Plushie",
+    99
+  ],
+  [
+    "Blizzard Kougra Plushie",
+    99
+  ],
+  [
+    "Chrysolite Dervish Plushie",
+    99
+  ],
+  [
+    "Desert Cobrall Plushie",
+    99
+  ],
+  [
+    "Black Bearog Plushie",
+    98
+  ],
+  [
+    "Dusk Kougra Plushie",
+    99
+  ],
+  [
+    "Serpentine Dervish Plushie",
+    99
+  ],
+  [
+    "Melatite Dervish Plushie",
+    99
+  ],
+  [
+    "Valentines Quiggle Plushie",
+    89
+  ],
+  [
+    "Green Tonu Plushie",
+    86
+  ],
+  [
+    "Valentines Chia Plushie",
+    89
+  ],
+  [
+    "Magical Cloud Lenny Plushie",
+    99
+  ],
+  [
+    "Magical Yellow Lenny Plushie",
+    99
+  ],
+  [
+    "Yellow Tonu Plushie",
+    87
+  ],
+  [
+    "Magical Yellow Wocky Plushie",
+    99
+  ],
+  [
+    "Neoquest Gatekeeper Plushie",
+    99
+  ],
+  [
+    "Granite Dervish Plushie",
+    98
+  ],
+  [
+    "Magical Blue Wocky Plushie",
+    99
+  ],
+  [
+    "Red Krawk Plushie",
+    81
+  ],
+  [
+    "Agate Dervish Plushie",
+    98
+  ],
+  [
+    "Blue Krawk Plushie",
+    82
+  ],
+  [
+    "Tyrannian Nimmo Plushie",
+    88
+  ],
+  [
+    "Red Tonu Plushie",
+    85
+  ],
+  [
+    "Magical Red Lenny Plushie",
+    99
+  ],
+  [
+    "Tyrannian Quiggle Plushie",
+    89
+  ],
+  [
+    "Yellow Krawk Plushie",
+    79
+  ],
+  [
+    "Tyrannian Shoyru Plushie",
+    87
+  ],
+  [
+    "Blue Tonu Plushie",
+    80
+  ],
+  [
+    "Valentines Bruce Plushie",
+    89
+  ],
+  [
+    "Green Krawk Plushie",
+    80
+  ],
+  [
+    "Magical Green Krawk Plushie",
+    99
+  ],
+  [
+    "Magical Red Krawk Plushie",
+    99
+  ],
+  [
+    "Magical Blue Krawk Plushie",
+    99
+  ],
+  [
+    "Magical Green Wocky Plushie",
+    99
+  ],
+  [
+    "Magical Green Tonu Plushie",
+    99
+  ],
+  [
+    "Magical Red Wocky Plushie",
+    99
+  ],
+  [
+    "Mutant Kiko Plushie",
+    98
+  ],
+  [
+    "Magical Rainbow Cybunny Plushie",
+    99
+  ],
+  [
+    "Mutant Buzz Plushie",
+    97
+  ],
+  [
+    "Magical Blue Cybunny Plushie",
+    98
+  ],
+  [
+    "Dr Sloth Plushie",
+    101
+  ],
+  [
+    "Magical Purple Koi Plushie",
+    99
+  ],
+  [
+    "Mutant Korbat Plushie",
+    99
+  ],
+  [
+    "Magical Yellow Cybunny Plushie",
+    98
+  ],
+  [
+    "Mutant Kougra Plushie",
+    99
+  ],
+  [
+    "Mutant Usul Plushie",
+    98
+  ],
+  [
+    "Magical Red Tonu Plushie",
+    99
+  ],
+  [
+    "Mutant Shoyru Plushie",
+    99
+  ],
+  [
+    "Magical Green Cybunny Plushie",
+    98
+  ],
+  [
+    "Scratchcard Kiosk Wocky Plushie",
+    101
+  ],
+  [
+    "Magical Blue Nimmo Plushie",
+    99
+  ],
+  [
+    "Mutant Moehog Plushie",
+    98
+  ],
+  [
+    "Mutant Elephante Plushie",
+    97
+  ],
+  [
+    "Magical Blue Tonu Plushie",
+    99
+  ],
+  [
+    "Mutant Blumaroo Plushie",
+    98
+  ],
+  [
+    "Mutant Chia Plushie",
+    99
+  ],
+  [
+    "Magical Red Cybunny Plushie",
+    98
+  ],
+  [
+    "Magical Yellow Nimmo Plushie",
+    99
+  ],
+  [
+    "Magical Red Nimmo Plushie",
+    99
+  ],
+  [
+    "Magical Red Koi Plushie",
+    99
+  ],
+  [
+    "Mutant Krawk Plushie",
+    99
+  ],
+  [
+    "Magical Yellow Tonu Plushie",
+    99
+  ],
+  [
+    "Magical Green Koi Plushie",
+    99
+  ],
+  [
+    "Jelly Chia Plushie",
+    200
+  ],
+  [
+    "Magical Yellow Koi Plushie",
+    99
+  ],
+  [
+    "Mutant Techo Plushie",
+    97
+  ],
+  [
+    "White Ixi Plushie",
+    99
+  ],
+  [
+    "Magical Green Flotsam Plushie",
+    99
+  ],
+  [
+    "Von Kougra Plushie",
+    102
+  ],
+  [
+    "Magical Yellow Flotsam Plushie",
+    98
+  ],
+  [
+    "Deluxe Blue Uni Plushie",
+    89
+  ],
+  [
+    "Skunk Skeith Plushie",
+    90
+  ],
+  [
+    "Quigquig Plushie",
+    106
+  ],
+  [
+    "Darigan Moehog Plushie",
+    90
+  ],
+  [
+    "Starry Lupe Plushie",
+    88
+  ],
+  [
+    "Darigan Skeith Plushie",
+    89
+  ],
+  [
+    "Disco Aisha Plushie",
+    110
+  ],
+  [
+    "Faerie Ixi Plushie",
+    91
+  ],
+  [
+    "Space Blumfaerie Plushie",
+    107
+  ],
+  [
+    "Jubusul Plushie",
+    109
+  ],
+  [
+    "Koibat Plushie",
+    108
+  ],
+  [
+    "Baby Kougra Plushie",
+    84
+  ],
+  [
+    "Magical Blue Flotsam Plushie",
+    99
+  ],
+  [
+    "Baby Skeith Plushie",
+    84
+  ],
+  [
+    "Blue Draik Plushie",
+    97
+  ],
+  [
+    "Baby Lenny Plushie",
+    101
+  ],
+  [
+    "Baby Grundo Plushie",
+    86
+  ],
+  [
+    "Faerie Kougra Plushie",
+    95
+  ],
+  [
+    "Magical Red Flotsam Plushie",
+    98
+  ],
+  [
+    "Cloud Ixi Plushie",
+    90
+  ],
+  [
+    "Headless Von Roo Plushie",
+    101
+  ],
+  [
+    "Lost Desert Brush Plushie",
+    85
+  ],
+  [
+    "Usulbat Plushie",
+    103
+  ],
+  [
+    "Sloth Faerie Plushie",
+    104
+  ],
+  [
+    "Cloud Lupe Plushie",
+    91
+  ],
+  [
+    "Scorcie Plushie",
+    105
+  ],
+  [
+    "Meowclops Plushie",
+    88
+  ],
+  [
+    "Skeleton Wocky Plushie",
+    90
+  ],
+  [
+    "Ripped Skarl",
+    101
+  ],
+  [
+    "Mutant Grundo Plushie",
+    90
+  ],
+  [
+    "Spotted Uni Plushie",
+    92
+  ],
+  [
+    "Ripped Jelly Chia Plushie",
+    101
+  ],
+  [
+    "Christmas Uni Plushie",
+    89
+  ],
+  [
+    "Mutant Lenny Plushie",
+    88
+  ],
+  [
+    "Rainbow Negg Plushie",
+    94
+  ],
+  [
+    "Halloween Koi Plushie",
+    86
+  ],
+  [
+    "Darigan Uni Plushie",
+    95
+  ],
+  [
+    "Alien Aisha Plushie",
+    89
+  ],
+  [
+    "Brown Evil Fuzzle",
+    101
+  ],
+  [
+    "Swirly Kiko Plushie",
+    101
+  ],
+  [
+    "Halloween Meerca Plushie",
+    91
+  ],
+  [
+    "Checkered Kiko Plushie",
+    78
+  ],
+  [
+    "Orange Gelert Plushie",
+    97
+  ],
+  [
+    "Pink Gelert Plushie",
+    90
+  ],
+  [
+    "Cloud Kiko Plushie",
+    80
+  ],
+  [
+    "Faerie Kiko Plushie",
+    90
+  ],
+  [
+    "Ripped Mutant Chia Plushie",
+    101
+  ],
+  [
+    "Faerie Aisha Plushie",
+    86
+  ],
+  [
+    "Orange Draik Plushie",
+    98
+  ],
+  [
+    "Darigan Lupe Plushie",
+    97
+  ],
+  [
+    "Spotted Gelert Plushie",
+    99
+  ],
+  [
+    "Darigan Krawk Plushie",
+    96
+  ],
+  [
+    "Ripped Valentines Chia Plushie",
+    101
+  ],
+  [
+    "Brown Uni Plushie",
+    90
+  ],
+  [
+    "Pirate Krawk Plushie",
+    99
+  ],
+  [
+    "Eliv Thade Plushie",
+    101
+  ],
+  [
+    "Gruundo Plushie",
+    101
+  ],
+  [
+    "Gorix Plushie",
+    101
+  ],
+  [
+    "Red Yurble Plushie",
+    90
+  ],
+  [
+    "Plushie Quiggle Plushie",
+    96
+  ],
+  [
+    "Tyrannian Tuskaninny Plushie",
+    96
+  ],
+  [
+    "Faerie Nimmo Plushie",
+    98
+  ],
+  [
+    "Starry Tuskaninny Plushie",
+    88
+  ],
+  [
+    "Fire Tuskaninny Plushie",
+    92
+  ],
+  [
+    "Ace Zafara Plushie",
+    101
+  ],
+  [
+    "Blue Yurble Plushie",
+    82
+  ],
+  [
+    "Ylana Skyfire Plushie",
+    101
+  ],
+  [
+    "Jazzmosis Blumaroo Plushie",
+    93
+  ],
+  [
+    "Yellow Yurble Plushie",
+    80
+  ],
+  [
+    "Green Yurble Plushie",
+    84
+  ],
+  [
+    "Disco Nimmo Plushie",
+    95
+  ],
+  [
+    "Rainbow JubJub Plushie",
+    98
+  ],
+  [
+    "Green Peophin Plushie",
+    86
+  ],
+  [
+    "Tyrannian Cybunny Plushie",
+    89
+  ],
+  [
+    "Rainbow Peophin Plushie",
+    90
+  ],
+  [
+    "Rainbow Ixi Plushie",
+    91
+  ],
+  [
+    "Commander Gormos Plushie",
+    101
+  ],
+  [
+    "Sophix II Plushie",
+    101
+  ],
+  [
+    "Halloween Nimmo Plushie",
+    96
+  ],
+  [
+    "Cylara Plushie",
+    101
+  ],
+  [
+    "Jazzmosis Kyrii Plushie",
+    88
+  ],
+  [
+    "White Tuskaninny Plushie",
+    90
+  ],
+  [
+    "Tyrannian Acara Plushie",
+    93
+  ],
+  [
+    "Rainbow Nimmo Plushie",
+    89
+  ],
+  [
+    "Yellow Peophin Plushie",
+    87
+  ],
+  [
+    "Blue Peophin Plushie",
+    88
+  ],
+  [
+    "Talking Korbat Plushie",
+    89
+  ],
+  [
+    "Red Peophin Plushie",
+    85
+  ],
+  [
+    "Blue Bori Plushie",
+    89
+  ],
+  [
+    "Yellow Bori Plushie",
+    82
+  ],
+  [
+    "The Ghost Lupe Plushie",
+    101
+  ],
+  [
+    "Starry Yurble Plushie",
+    95
+  ],
+  [
+    "Shadow Lupe Plushie",
+    88
+  ],
+  [
+    "Curious Blumaroo Gnome Plushie",
+    88
+  ],
+  [
+    "Red Bori Plushie",
+    86
+  ],
+  [
+    "Christmas Shoyru Plushie",
+    101
+  ],
+  [
+    "Shadow Yurble Plushie",
+    97
+  ],
+  [
+    "Shadow Draik Plushie",
+    94
+  ],
+  [
+    "Hand Painted Scarab Plushie",
+    101
+  ],
+  [
+    "Darigan Techo Plushie",
+    94
+  ],
+  [
+    "Plushie Kougra Plushie",
+    92
+  ],
+  [
+    "Selket Plushie",
+    101
+  ],
+  [
+    "Plushie Acara Plushie",
+    95
+  ],
+  [
+    "Darigan Peophin Plushie",
+    92
+  ],
+  [
+    "Snowbeast Plushie",
+    101
+  ],
+  [
+    "White Yurble Plushie",
+    95
+  ],
+  [
+    "Purple Yurble Plushie",
+    93
+  ],
+  [
+    "Plushie Clam",
+    101
+  ],
+  [
+    "Lost Desert Kougra Plushie",
+    101
+  ],
+  [
+    "Plushie Blumaroo Plushie",
+    88
+  ],
+  [
+    "Lenny Conundrum Plushie",
+    101
+  ],
+  [
+    "Caylis Plushie",
+    101
+  ],
+  [
+    "Green Bori Plushie",
+    84
+  ],
+  [
+    "Snowager Plushie",
+    90
+  ],
+  [
+    "Shadow Aisha Plushie",
+    89
+  ],
+  [
+    "Plushie Kau Plushie",
+    95
+  ],
+  [
+    "Faerie Pteri Plushie",
+    80
+  ],
+  [
+    "Striped Koi Plushie",
+    90
+  ],
+  [
+    "Black Doglefox Plushie",
+    94
+  ],
+  [
+    "White Ruki Plushie",
+    92
+  ],
+  [
+    "Rag Mynci Plushie",
+    66
+  ],
+  [
+    "Scordrax Plushie",
+    101
+  ],
+  [
+    "Prince Jazan Plushie",
+    101
+  ],
+  [
+    "Rainbow Hissi Plushie",
+    89
+  ],
+  [
+    "Baby Quiggle Plushie",
+    89
+  ],
+  [
+    "Ghost Hissi Plushie",
+    88
+  ],
+  [
+    "Baby Peophin Plushie",
+    95
+  ],
+  [
+    "Yellow Ruki Plushie",
+    87
+  ],
+  [
+    "Red Ruki Plushie",
+    88
+  ],
+  [
+    "Starry Hissi Plushie",
+    88
+  ],
+  [
+    "Rainbow Anubis Plushie",
+    95
+  ],
+  [
+    "Pink Doglefox Plushie",
+    93
+  ],
+  [
+    "Maraquan Techo Plushie",
+    97
+  ],
+  [
+    "Tyrannian Techo Plushie",
+    99
+  ],
+  [
+    "Rainbow Ruki Plushie",
+    96
+  ],
+  [
+    "Faerie Peophin Plushie",
+    92
+  ],
+  [
+    "Purple Hissi Plushie",
+    86
+  ],
+  [
+    "Soup Faerie Plushie",
+    94
+  ],
+  [
+    "Green Ruki Plushie",
+    87
+  ],
+  [
+    "Grey Wocky Plushie",
+    97
+  ],
+  [
+    "Fire Peophin Plushie",
+    90
+  ],
+  [
+    "Robot Moehog Plushie",
+    90
+  ],
+  [
+    "Blue Ruki Plushie",
+    88
+  ],
+  [
+    "Usukicon Y7 Plushie",
+    101
+  ],
+  [
+    "Starry Tonu Plushie",
+    89
+  ],
+  [
+    "Doglefox Plushie",
+    90
+  ],
+  [
+    "Pink Scorchio Plushie",
+    95
+  ],
+  [
+    "Blue Lutari Plushie",
+    57
+  ],
+  [
+    "Rainbow Yurble Plushie",
+    92
+  ],
+  [
+    "Green Hissi Plushie",
+    47
+  ],
+  [
+    "Red Hissi Plushie",
+    45
+  ],
+  [
+    "Rainbow Korbat Plushie",
+    98
+  ],
+  [
+    "Yellow Hissi Plushie",
+    48
+  ],
+  [
+    "Pink Pteri Plushie",
+    76
+  ],
+  [
+    "Rainbow Pteri Plushie",
+    79
+  ],
+  [
+    "Disco Hissi Plushie",
+    85
+  ],
+  [
+    "Spotted Kau Plushie",
+    93
+  ],
+  [
+    "Baby Eyrie Plushie",
+    94
+  ],
+  [
+    "Dastardly Evil Fuzzle",
+    101
+  ],
+  [
+    "Mutant Hissi Plushie",
+    92
+  ],
+  [
+    "Grey Usul Plushie",
+    94
+  ],
+  [
+    "Grey Chomby Plushie",
+    95
+  ],
+  [
+    "Orange Scorchio Plushie",
+    92
+  ],
+  [
+    "Pink Hissi Plushie",
+    84
+  ],
+  [
+    "Blue Hissi Plushie",
+    46
+  ],
+  [
+    "Yellow Lutari Plushie",
+    60
+  ],
+  [
+    "Red Lutari Plushie",
+    59
+  ],
+  [
+    "Speckled Pteri Plushie",
+    78
+  ],
+  [
+    "Razul Plushie with Real Fire Action!",
+    101
+  ],
+  [
+    "Green Lutari Plushie",
+    58
+  ],
+  [
+    "Rainbow Slorg Plushie",
+    90
+  ],
+  [
+    "Mellow Marauders Plushie",
+    101
+  ],
+  [
+    "White Scorchio Plushie",
+    93
+  ],
+  [
+    "Faerie Grundo Plushie",
+    91
+  ],
+  [
+    "Purple Pteri Plushie",
+    77
+  ],
+  [
+    "Starry Scorchio Plushie",
+    94
+  ],
+  [
+    "Rainbow Cybunny Carrot Plushie",
+    101
+  ],
+  [
+    "Eo Codestone Plushie",
+    80
+  ],
+  [
+    "Mutant Flotsam Plushie",
+    91
+  ],
+  [
+    "Fire Blumaroo Plushie",
+    95
+  ],
+  [
+    "Baby Chomby Plushie",
+    88
+  ],
+  [
+    "Rainbow Lenny Plushie",
+    87
+  ],
+  [
+    "Rainbow Chomby Plushie",
+    86
+  ],
+  [
+    "Robot Kau Plushie",
+    91
+  ],
+  [
+    "Orn Codestone Plushie",
+    80
+  ],
+  [
+    "Pink Krawk Plushie",
+    83
+  ],
+  [
+    "Halloween Uni Plushie",
+    88
+  ],
+  [
+    "Orange Chomby Plushie",
+    84
+  ],
+  [
+    "Lu Codestone Plushie",
+    80
+  ],
+  [
+    "Darigan Acara Plushie",
+    99
+  ],
+  [
+    "Robot Gelert Plushie",
+    88
+  ],
+  [
+    "Pink Blumaroo Plushie",
+    96
+  ],
+  [
+    "Faerie Flotsam Plushie",
+    92
+  ],
+  [
+    "Orange Krawk Plushie",
+    84
+  ],
+  [
+    "Darigan Yurble Plushie",
+    93
+  ],
+  [
+    "Robot Hissi Plushie",
+    88
+  ],
+  [
+    "Halloween Gelert Plushie",
+    87
+  ],
+  [
+    "Halloween Bori Plushie",
+    85
+  ],
+  [
+    "Vo Codestone Plushie",
+    80
+  ],
+  [
+    "Pink Skeith Plushie",
+    93
+  ],
+  [
+    "Mau Codestone Plushie",
+    80
+  ],
+  [
+    "Zei Codestone Plushie",
+    80
+  ],
+  [
+    "Fire Chomby Plushie",
+    85
+  ],
+  [
+    "Tai-Kai Codestone Plushie",
+    80
+  ],
+  [
+    "Brown Draik Plushie",
+    93
+  ],
+  [
+    "Main Codestone Plushie",
+    80
+  ],
+  [
+    "Resewn Shoyru Plushie",
+    101
+  ],
+  [
+    "Blue Lupe Chia Plushie",
+    84
+  ],
+  [
+    "Shadow Krawk Plushie",
+    90
+  ],
+  [
+    "Gothic Skeith Plushie",
+    82
+  ],
+  [
+    "Rainbow Mynci Plushie",
+    83
+  ],
+  [
+    "Red Lupe Chia Plushie",
+    86
+  ],
+  [
+    "Ripped Moehog Plushie",
+    101
+  ],
+  [
+    "Maraquan Eyrie Plushie",
+    90
+  ],
+  [
+    "Gothic Ogrin Plushie",
+    80
+  ],
+  [
+    "Green Lupe Chia Plushie",
+    85
+  ],
+  [
+    "White Cybunny Plushie",
+    83
+  ],
+  [
+    "Faerie Techo Plushie",
+    101
+  ],
+  [
+    "Jelly Poogle Plushie",
+    90
+  ],
+  [
+    "Grey Acara Plushie",
+    89
+  ],
+  [
+    "Discarded Tuskaninny Plushie",
+    101
+  ],
+  [
+    "Cloud Scorchio Plushie",
+    81
+  ],
+  [
+    "Faerie Cybunny Plushie",
+    101
+  ],
+  [
+    "Grey Koi Plushie",
+    88
+  ],
+  [
+    "Faerie Bori Plushie",
+    101
+  ],
+  [
+    "Darigan Scorchio Plushie",
+    82
+  ],
+  [
+    "Cloud Acara Plushie",
+    87
+  ],
+  [
+    "Faerie Ruki Plushie",
+    92
+  ],
+  [
+    "Baby Scorchio Plushie",
+    80
+  ],
+  [
+    "Gothic Usul Plushie",
+    83
+  ],
+  [
+    "Darigan Grundo Plushie",
+    92
+  ],
+  [
+    "Rainbow Grarrl Plushie",
+    83
+  ],
+  [
+    "Yellow Lupe Chia Plushie",
+    87
+  ],
+  [
+    "Glowing Acara Plushie",
+    87
+  ],
+  [
+    "Gothic Pteri Plushie",
+    81
+  ],
+  [
+    "Halloween Cybunny Plushie",
+    85
+  ],
+  [
+    "Edgy Lupe Plushie",
+    94
+  ],
+  [
+    "Strawberry Milkshake Kau Plushie",
+    180
+  ],
+  [
+    "Valentine Mynci Plushie",
+    89
+  ],
+  [
+    "Faerie Eyrie Plushie",
+    65
+  ],
+  [
+    "Alien Blumaroo Plushie",
+    89
+  ],
+  [
+    "Botanical Grundo Plushie",
+    89
+  ],
+  [
+    "Strawberry Chocolate Yurble Plushie",
+    91
+  ],
+  [
+    "Deluxe Starry Kyrii Plushie",
+    89
+  ],
+  [
+    "Pastel Pink Peophin Plushie",
+    87
+  ],
+  [
+    "Halloween Kougra Plushie",
+    92
+  ],
+  [
+    "Deluxe Starry Cybunny Plushie",
+    92
+  ],
+  [
+    "Halloween Hissi Plushie",
+    87
+  ],
+  [
+    "Pastel Purple Peophin Plushie",
+    87
+  ],
+  [
+    "Valentines Yurble Plushie",
+    89
+  ],
+  [
+    "Fire Acara Plushie",
+    76
+  ],
+  [
+    "Valentine Kiko Plushie",
+    89
+  ],
+  [
+    "Mutant Pteri Plushie",
+    99
+  ],
+  [
+    "Rainbow Spotted Kau Plushie",
+    180
+  ],
+  [
+    "Valentines Shoyru Plushie",
+    89
+  ],
+  [
+    "Fire Kougra Plushie",
+    74
+  ],
+  [
+    "Retro Alien Jubjub Plushie",
+    98
+  ],
+  [
+    "Magical Starry Kau Plushie",
+    99
+  ],
+  [
+    "Plushie Eyrie Plushie",
+    67
+  ],
+  [
+    "Valentines Wocky Plushie",
+    89
+  ],
+  [
+    "Alien Lutari Plushie",
+    89
+  ],
+  [
+    "Chocolate Yurble Plushie",
+    80
+  ],
+  [
+    "Chocolate Wocky Plushie",
+    80
+  ],
+  [
+    "Chocolate Aisha Plushie",
+    80
+  ],
+  [
+    "Tyrannian Tonu Plushie",
+    89
+  ],
+  [
+    "Starry Kau Plushie",
+    64
+  ],
+  [
+    "Snargan Plushie",
+    101
+  ],
+  [
+    "Plushie Techo Plushie",
+    83
+  ],
+  [
+    "Ripped Donny Plushie",
+    101
+  ],
+  [
+    "Fire Techo Plushie",
+    81
+  ],
+  [
+    "Faerie Kacheek Plushie",
+    98
+  ],
+  [
+    "Baby Tonu Plushie",
+    84
+  ],
+  [
+    "Brucey B Plushie",
+    101
+  ],
+  [
+    "Glowing Techo Plushie",
+    82
+  ],
+  [
+    "Knitted Chia Plushie",
+    96
+  ],
+  [
+    "Halloween Mynci Plushie",
+    96
+  ],
+  [
+    "Tyrannian Koi Plushie",
+    89
+  ],
+  [
+    "Halloween Eyrie Plushie",
+    101
+  ],
+  [
+    "Pirate Quiggle Plushie",
+    93
+  ],
+  [
+    "Mutant Ruki Plushie",
+    88
+  ],
+  [
+    "Christmas Eyrie Plushie",
+    83
+  ],
+  [
+    "Plushie Grundo Plushie",
+    89
+  ],
+  [
+    "Faerie Quiggle Plushie",
+    89
+  ],
+  [
+    "Jelly Blumaroo Plushie",
+    101
+  ],
+  [
+    "Donny Plushie",
+    92
+  ],
+  [
+    "Techo Fanatic Plushie",
+    99
+  ],
+  [
+    "Christmas Zafara Plushie",
+    86
+  ],
+  [
+    "Plushie Mynci Plushie",
+    88
+  ],
+  [
+    "Morris Plushie",
+    101
+  ],
+  [
+    "Christmas Acara Plushie",
+    87
+  ],
+  [
+    "Baby Pteri Plushie",
+    80
+  ],
+  [
+    "Halloween Chomby Plushie",
+    90
+  ],
+  [
+    "Baby Mynci Plushie",
+    83
+  ],
+  [
+    "Maraquan Gelert Plushie",
+    92
+  ],
+  [
+    "Knitted Poogle Plushie",
+    94
+  ],
+  [
+    "Spotted Lupe Plushie",
+    94
+  ],
+  [
+    "Royalgirl Korbat Plushie",
+    89
+  ],
+  [
+    "Royalboy Korbat Plushie",
+    89
+  ],
+  [
+    "Faerie Lutari Plushie",
+    90
+  ],
+  [
+    "Magical Christmas Kau Plushie",
+    99
+  ],
+  [
+    "Jelly Chomby Plushie",
+    101
+  ],
+  [
+    "Jelly Kougra Plushie",
+    101
+  ],
+  [
+    "Replica TDMBGPOP Plushie",
+    79
+  ],
+  [
+    "Magical Christmas Bruce Plushie",
+    99
+  ],
+  [
+    "Turmaculus Plushie",
+    101
+  ],
+  [
+    "Jelly Usul Plushie",
+    101
+  ],
+  [
+    "Magical Christmas Zafara Plushie",
+    99
+  ],
+  [
+    "Magical Christmas Korbat Plushie",
+    99
+  ],
+  [
+    "Retro Blue Moehog Plushie",
+    95
+  ],
+  [
+    "Magical Christmas Uni Plushie",
+    99
+  ],
+  [
+    "Halloween Jetsam Plushie",
+    92
+  ],
+  [
+    "Grey Carmariller Plushie",
+    76
+  ],
+  [
+    "Un-Valentines Tonu Plushie",
+    85
+  ],
+  [
+    "Knitted Nimmo Plushie",
+    82
+  ],
+  [
+    "King Skarl Snowbunny Plushie",
+    101
+  ],
+  [
+    "King Skarl Quiguki Plushie",
+    101
+  ],
+  [
+    "Knitted Peophin Plushie",
+    81
+  ],
+  [
+    "Magical Christmas Eyrie Plushie",
+    99
+  ],
+  [
+    "Negg Faerie Plushie",
+    87
+  ],
+  [
+    "Magical Christmas Acara Plushie",
+    99
+  ],
+  [
+    "Magical Christmas Shoyru Plushie",
+    99
+  ],
+  [
+    "Jelly Cybunny Plushie",
+    101
+  ],
+  [
+    "Plushie Gelert Plushie",
+    91
+  ],
+  [
+    "King Skarl Erisim Plushie",
+    101
+  ],
+  [
+    "Count von Roo Plushie",
+    101
+  ],
+  [
+    "Baby Draik Plushie",
+    86
+  ],
+  [
+    "Red Pteri Plushie",
+    65
+  ],
+  [
+    "Retro Striped Lenny Plushie",
+    98
+  ],
+  [
+    "Retro Blue Elephante Plushie",
+    96
+  ],
+  [
+    "Retro Yellow Moehog Plushie",
+    95
+  ],
+  [
+    "Darigan Lenny Plushie",
+    95
+  ],
+  [
+    "Brown Jubjub Plushie",
+    70
+  ],
+  [
+    "Retro Yellow Elephante Plushie",
+    96
+  ],
+  [
+    "Retro Rainbow Moehog Plushie",
+    96
+  ],
+  [
+    "Reject Jubjub Plushie",
+    70
+  ],
+  [
+    "Retro Red Elephante Plushie",
+    96
+  ],
+  [
+    "Retro Purple Kougra Plushie",
+    97
+  ],
+  [
+    "Retro Red Lenny Plushie",
+    96
+  ],
+  [
+    "Rainbow Aisha Doll",
+    99
+  ],
+  [
+    "Retro Yellow Lenny Plushie",
+    96
+  ],
+  [
+    "Beaten Grundo Plushie",
+    101
+  ],
+  [
+    "Retro Gold Moehog Plushie",
+    96
+  ],
+  [
+    "Retro Green Elephante Plushie",
+    96
+  ],
+  [
+    "Retro Yellow Kougra Plushie",
+    97
+  ],
+  [
+    "Retro Silver Kougra Plushie",
+    98
+  ],
+  [
+    "Neon Skeleton Lutari Plushie",
+    83
+  ],
+  [
+    "Retro Blue Kougra Plushie",
+    97
+  ],
+  [
+    "Retro Green Kougra Plushie",
+    97
+  ],
+  [
+    "Retro Red Moehog Plushie",
+    95
+  ],
+  [
+    "Retro Purple Moehog Plushie",
+    95
+  ],
+  [
+    "Retro Blue Lenny Plushie",
+    96
+  ],
+  [
+    "Retro Cloud Lenny Plushie",
+    98
+  ],
+  [
+    "Retro Red Cybunny Plushie",
+    96
+  ],
+  [
+    "Retro Silver Moehog Plushie",
+    96
+  ],
+  [
+    "Reject Retro Purple Kougra Plushie",
+    99
+  ],
+  [
+    "Retro Red Kougra Plushie",
+    97
+  ],
+  [
+    "Retro Blue Quiggle Plushie",
+    95
+  ],
+  [
+    "Reject Retro Koi Plushie",
+    99
+  ],
+  [
+    "Retro Green Cybunny Plushie",
+    96
+  ],
+  [
+    "Soft Blue Vintage Cybunny Plushie",
+    97
+  ],
+  [
+    "Retro Yellow Cybunny Plushie",
+    96
+  ],
+  [
+    "Retro Purple Koi Plushie",
+    97
+  ],
+  [
+    "Retro Electric Kau Plushie",
+    95
+  ],
+  [
+    "Retro Rainbow Kau Plushie",
+    95
+  ],
+  [
+    "Retro Green Quiggle Plushie",
+    95
+  ],
+  [
+    "Rainbow Florg Plushie",
+    101
+  ],
+  [
+    "Retro Pink Quiggle Plushie",
+    95
+  ],
+  [
+    "Retro Green Kau Plushie",
+    95
+  ],
+  [
+    "Retro Rainbow Cybunny Plushie",
+    97
+  ],
+  [
+    "Retro Blue Koi Plushie",
+    95
+  ],
+  [
+    "Retro Green Koi Plushie",
+    95
+  ],
+  [
+    "Retro Spotted Koi Plushie",
+    96
+  ],
+  [
+    "Retro Purple Kau Plushie",
+    95
+  ],
+  [
+    "Reject Retro Rainbow Cybunny Plushie",
+    99
+  ],
+  [
+    "Retro Yellow Quiggle Plushie",
+    95
+  ],
+  [
+    "Retro Yellow Koi Plushie",
+    95
+  ],
+  [
+    "Reject Purple Quiggle Plushie",
+    99
+  ],
+  [
+    "Retro Purple Quiggle Plushie",
+    95
+  ],
+  [
+    "Rainbow Jetsam Toy",
+    101
+  ],
+  [
+    "Rainbow Flotsam Toy",
+    101
+  ],
+  [
+    "Retro Red Kau Plushie",
+    95
+  ],
+  [
+    "Retro Rainbow Quiggle Plushie",
+    95
+  ],
+  [
+    "Retro Blue Cybunny Plushie",
+    96
+  ],
+  [
+    "Retro Red Koi Plushie",
+    95
+  ],
+  [
+    "Retro Red Quiggle Plushie",
+    95
+  ],
+  [
+    "Retro Disco Kau Plushie",
+    95
+  ],
+  [
+    "Retro Green Acara Plushie",
+    98
+  ],
+  [
+    "Retro Electric Fuzzle",
+    89
+  ],
+  [
+    "Retro Green Acara Doll",
+    89
+  ],
+  [
+    "Green Kau Doll",
+    97
+  ],
+  [
+    "Rainbow Kau Doll",
+    97
+  ],
+  [
+    "Retro Yellow Acara Plushie",
+    98
+  ],
+  [
+    "Retro Striped Fuzzle",
+    89
+  ],
+  [
+    "Retro Blue Flotsam Plushie",
+    98
+  ],
+  [
+    "Retro Blue Acara Doll",
+    89
+  ],
+  [
+    "Retro Yellow Flotsam Plushie",
+    98
+  ],
+  [
+    "Retro Cloud Fuzzle",
+    89
+  ],
+  [
+    "Retro Red Flotsam Plushie",
+    98
+  ],
+  [
+    "Retro Yellow Kau Plushie",
+    95
+  ],
+  [
+    "Retro Green Fuzzle",
+    77
+  ],
+  [
+    "Retro Pink Fuzzle",
+    82
+  ],
+  [
+    "Retro Blue Acara Plushie",
+    98
+  ],
+  [
+    "Red Kau Doll",
+    97
+  ],
+  [
+    "Retro Yellow Fuzzle",
+    77
+  ],
+  [
+    "Blue Kau Doll",
+    97
+  ],
+  [
+    "Retro Black Fuzzle",
+    82
+  ],
+  [
+    "Yellow Kau Doll",
+    97
+  ],
+  [
+    "Retro Red Acara Plushie",
+    98
+  ],
+  [
+    "Retro Blue Fuzzle",
+    77
+  ],
+  [
+    "Retro White Fuzzle",
+    82
+  ],
+  [
+    "Retro Purple Fuzzle",
+    82
+  ],
+  [
+    "Retro Red Acara Doll",
+    89
+  ],
+  [
+    "Retro Orange Fuzzle",
+    77
+  ],
+  [
+    "Retro Spotted Fuzzle",
+    89
+  ],
+  [
+    "Retro Yellow Acara Doll",
+    89
+  ],
+  [
+    "Retro Green Flotsam Plushie",
+    98
+  ],
+  [
+    "Retro Starry Fuzzle",
+    89
+  ],
+  [
+    "Retro Blue Meerca Plushie",
+    95
+  ],
+  [
+    "Botanical Chia Plushie",
+    95
+  ],
+  [
+    "Retro Yellow Peophin Plushie",
+    97
+  ],
+  [
+    "Retro Blue Skeith Plushie",
+    93
+  ],
+  [
+    "Retro Starry Skeith Plushie",
+    96
+  ],
+  [
+    "Yellow Igloo Chia Plushie",
+    89
+  ],
+  [
+    "Red Botanical Meerca Plushie",
+    96
+  ],
+  [
+    "Retro Green Skeith Plushie",
+    93
+  ],
+  [
+    "Retro Green Meerca Plushie",
+    95
+  ],
+  [
+    "Botanical Meerca Plushie",
+    98
+  ],
+  [
+    "Retro Yellow Meerca Plushie",
+    95
+  ],
+  [
+    "Retro Rainbow Skeith Plushie",
+    98
+  ],
+  [
+    "Retro Red Peophin Plushie",
+    97
+  ],
+  [
+    "Retro Gold Meerca Plushie",
+    97
+  ],
+  [
+    "Magical Orange Draik Plushie",
+    99
+  ],
+  [
+    "Blue Igloo Chia Plushie",
+    89
+  ],
+  [
+    "Retro Grey Fuzzle",
+    89
+  ],
+  [
+    "Retro White Meerca Plushie",
+    98
+  ],
+  [
+    "Retro Rainbow Fuzzle",
+    98
+  ],
+  [
+    "Magical Shadow Draik Plushie",
+    99
+  ],
+  [
+    "Retro Ghost Fuzzle",
+    95
+  ],
+  [
+    "Retro Green Peophin Plushie",
+    97
+  ],
+  [
+    "Retro Red Skeith Plushie",
+    93
+  ],
+  [
+    "Retro Skunk Skeith Plushie",
+    95
+  ],
+  [
+    "Retro White Skeith Plushie",
+    95
+  ],
+  [
+    "Retro Red Meerca Plushie",
+    95
+  ],
+  [
+    "Retro Orange Skeith Plushie",
+    95
+  ],
+  [
+    "Retro Pink Skeith Plushie",
+    95
+  ],
+  [
+    "Retro Blue Peophin Plushie",
+    97
+  ],
+  [
+    "Reject Red Grarrl Plushie",
+    83
+  ],
+  [
+    "Reject Rainbow Grarrl Plushie",
+    89
+  ],
+  [
+    "Retro Gold Jetsam Plushie",
+    98
+  ],
+  [
+    "Edgy Krawk Plushie",
+    95
+  ],
+  [
+    "Retro Red Jetsam Plushie",
+    98
+  ],
+  [
+    "Retro Red Grarrl Plushie",
+    92
+  ],
+  [
+    "Retro Yellow Skeith Plushie",
+    93
+  ],
+  [
+    "Retro Green Korbat Plushie",
+    90
+  ],
+  [
+    "Blue Jetsam Toy",
+    89
+  ],
+  [
+    "Red Jetsam Toy",
+    91
+  ],
+  [
+    "Reject Blue Grarrl Plushie",
+    83
+  ],
+  [
+    "Green Jetsam Toy",
+    92
+  ],
+  [
+    "Retro Green Grarrl Plushie",
+    92
+  ],
+  [
+    "Retro Christmas Korbat Plushie",
+    98
+  ],
+  [
+    "Yellow Jetsam Toy",
+    85
+  ],
+  [
+    "Reject Green Grarrl Plushie",
+    83
+  ],
+  [
+    "Retro Green Jetsam Plushie",
+    98
+  ],
+  [
+    "Retro Blue Jetsam Plushie",
+    98
+  ],
+  [
+    "Reject Yellow Grarrl Plushie",
+    83
+  ],
+  [
+    "Retro Yellow Grarrl Plushie",
+    92
+  ],
+  [
+    "Retro Blue Grarrl Plushie",
+    92
+  ],
+  [
+    "Magaral Plushie",
+    82
+  ],
+  [
+    "Retro Striped Korbat Plushie",
+    98
+  ],
+  [
+    "Hopso Plushie",
+    77
+  ],
+  [
+    "Retro Yellow Jetsam Doll",
+    89
+  ],
+  [
+    "Retro Silver Jetsam Doll",
+    89
+  ],
+  [
+    "Retro Blue Korbat Plushie",
+    90
+  ],
+  [
+    "Scrunt II Plushie",
+    90
+  ],
+  [
+    "Retro Red Korbat Plushie",
+    90
+  ],
+  [
+    "Zargrold the KING Plushie",
+    101
+  ],
+  [
+    "Detective Charles Plushie",
+    101
+  ],
+  [
+    "Brucey B Shop Wizard Plushie",
+    101
+  ],
+  [
+    "Kiosk Dr. Sloth Plushie",
+    101
+  ],
+  [
+    "Chezzoom Plushie",
+    58
+  ],
+  [
+    "Princess Von Uni Plushie",
+    101
+  ],
+  [
+    "Reject Retro Blue Acara Plushie",
+    99
+  ],
+  [
+    "Retro Yellow Korbat Plushie",
+    90
+  ],
+  [
+    "Puffo the Wocky Plushie",
+    101
+  ],
+  [
+    "MSP Aisha Plushie",
+    97
+  ],
+  [
+    "Ghostkerlupe Plushie",
+    101
+  ],
+  [
+    "Pink Lupe Plushie",
+    90
+  ],
+  [
+    "Magical Starry Lupe Plushie",
+    99
+  ],
+  [
+    "Magical Cloud Lupe Plushie",
+    99
+  ],
+  [
+    "Magical Faerie Lutari Plushie",
+    100
+  ],
+  [
+    "MSP Kacheek Plushie",
+    97
+  ],
+  [
+    "Scrunt Plushie",
+    90
+  ],
+  [
+    "Reject Blue Bruce Plushie",
+    97
+  ]
 ]
